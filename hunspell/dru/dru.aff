@@ -1,0 +1,23 @@
+SET UTF-8
+
+KEY qwertyuiop[|asdfghjkl;ʼ|zxcvbnm,
+
+TRY eEéÉ
+TRY iIɨƗ
+
+REP 8
+REP e é
+REP E É
+REP i ɨ
+REP I Ɨ
+REP L lr
+REP D dr
+REP T tr
+REP ' ʼ
+
+MAP 4
+MAP eé
+MAP EÉ
+MAP iɨ
+MAP IƗ
+

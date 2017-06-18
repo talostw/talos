@@ -1,0 +1,10 @@
+SET UTF-8
+
+KEY qwertyuiop[|asdfghjkl;ʼ|zxcvbnm,
+
+TRY ' ʼ
+
+REP 3
+REP ' ʼ
+REP ^ ʼ
+REP ʼ ^

@@ -1,0 +1,16 @@
+SET UTF-8
+
+KEY qwertyuiop[|asdfghjkl;ʼ|zxcvbnm,|uʉ
+
+TRY uUʉɄ
+
+REP 5
+REP u ʉ
+REP U Ʉ
+REP ʉ u
+REP Ʉ U
+REP ' ʼ
+
+MAP 1
+MAP Uʉ
+

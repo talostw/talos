@@ -1,0 +1,6936 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE xdxf SYSTEM "https://raw.github.com/soshial/xdxf_makedict/master/format_standard/xdxf_strict.dtd">
+<xdxf lang_from="ZHT" lang_to="TAY" format="logical" revision="032beta">
+    <meta_info>
+        <title>Chinese - Atayal (Squliq)</title>
+        <full_title>Chinese to Atayal (Squliq) to Dictionary</full_title>
+        <description>No description</description>
+        <file_ver>001</file_ver>
+        <creation_date>2016-12-24</creation_date>
+    </meta_info>
+    <lexicon>
+		<ar>
+			<k>&#19968;&#20123;</k> <!-- 一些 -->
+			<def>
+				<deftext>cikay</deftext>
+				<ex>
+					<ex_orig>我們來聽一段歌好嗎？</ex_orig>
+					<ex_tran>pongay ta cikay qwas ki?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們要不斷反覆聽說讀寫，我們來聽一段歌，好嗎？</ex_orig>
+					<ex_tran>lpgaw ta krryax ki pongay ta cikay qwas ki?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#19968;&#20491;</k> <!-- 一個 -->
+			<def>
+				<deftext>qutux</deftext>
+				<ex>
+					<ex_orig>第一課</ex_orig>
+					<ex_tran>te qutux lpgan</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>一個鼻子，一個(我的)嘴巴</ex_orig>
+					<ex_tran>qutux nguhuw, qutux nqwaq mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#19968;&#36215;</k> <!-- 一起 -->
+			<def>
+							<def>
+				<deftext>msqun</deftext>
+				<ex>
+					<ex_orig>瓦旦：當然可以！走啊！一起去看</ex_orig>
+					<ex_tran>Watan: aw ga! hata msqun mita.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們天天一起上學</ex_orig>
+					<ex_tran>msqun sami musa mqwas biru kryax.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們不分開，天天在一起</ex_orig>
+					<ex_tran>ini sami sʼalax ru msqun myan krryax.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>msqun</deftext>
+				<ex>
+					<ex_orig>我們不分開，天天在一起</ex_orig>
+					<ex_tran>ini sami sʼalax ru msqun myan krryax.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我和哥哥、妹妹每天一起去上學</ex_orig>
+					<ex_tran>knan ru qsuyan mu mlikuy, ru sswe mu kneril ga msqun myan musa mqwas biru krryax.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們天天一起上學</ex_orig>
+					<ex_tran>msqun sami musa mqwas biru kryax.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>瓦旦：當然可以！走啊！一起去看</ex_orig>
+					<ex_tran>Watan: aw ga! hata msqun mita.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>psqun</deftext>
+				<ex>
+					<ex_orig>尤幹：好呀！我們兩人同行才不會有意外</ex_orig>
+					<ex_tran>yukan: aw ga! sazing hi ta psqun musa ga ini nbah mulu ywaw.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#19971;</k> <!-- 七 -->
+			<def>
+				<deftext>pitu</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#19978;&#24093;</k> <!-- 上帝 -->
+			<def>
+				<deftext>utux</deftext>
+				<ex>
+					<ex_orig>一個巨大破口的巨石，</ex_orig>
+					<ex_tran>qutux hopa balay na mbkaʼ btunux.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>從裡面出現一對男女，</ex_orig>
+					<ex_tran>htgan qutux mlikuy ru qutux mlikuhy kya.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>感謝我們祖先的靈，</ex_orig>
+					<ex_tran>mhoway balay utux bnkis ta,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>第十一課</ex_orig>
+					<ex_tran>te mpuw qutux lpqan</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我有一組弓箭，</ex_orig>
+					<ex_tran>cyux qutux blenup maku.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#19979;&#24052;</k> <!-- 下巴 -->
+			<def>
+				<deftext>qabay</deftext>
+				<ex>
+					<ex_orig>男人紋在上額頭及下巴，</ex_orig>
+					<ex_tran>mlikuy ga ptasan lihuy ru qabay.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#19981;</k> <!-- 不 -->
+			<def>
+							<def>
+				<deftext>iyat</deftext>
+				<ex>
+					<ex_orig>還是坐火車？</ex_orig>
+					<ex_tran>iyat ga pgluw su kisyaʼ?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>yat</deftext>
+				<ex>
+					<ex_orig>不要。</ex_orig>
+					<ex_tran>yat ku.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>否則你功課會不好。</ex_orig>
+					<ex_tran>yat su qbaq biru la.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>ini</deftext>
+				<ex>
+					<ex_orig>若不遵從會被祖靈咒罵的！</ex_orig>
+					<ex_tran>ini glgiy ga pcyusan Utux ma!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>每一個家庭，都不一樣</ex_orig>
+					<ex_tran>ini ptnaq kwara gaga na qutux qutux ngasal ,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>可是也不能隨便亂來，</ex_orig>
+					<ex_tran>ana ga,ini hmci mhmut uzi.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>不說謊、</ex_orig>
+					<ex_tran>ini ta hmut mbrus,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>也不懶惰。</ex_orig>
+					<ex_tran>ini ta qilang uzi.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#19981;&#35201;</k> <!-- 不要 -->
+			<def>
+							<def>
+				<deftext>laxiy</deftext>
+				<ex>
+					<ex_orig>不要太貪玩？</ex_orig>
+					<ex_tran>laxiy lokah iyan mzuy?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>不要太貪玩，</ex_orig>
+					<ex_tran>laxiy lokah iyal mzuy,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>laxiy</deftext>
+				<ex>
+					<ex_orig>不要忘了祖先的教誨。</ex_orig>
+					<ex_tran>laxiy kyungi pincbaq na binkisan,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#20013;&#38291;</k> <!-- 中間 -->
+			<def>
+				<deftext>ska</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20054;&#24039;</k> <!-- 乖巧 -->
+			<def>
+				<deftext>sʼsu</deftext>
+				<ex>
+					<ex_orig>是勤奮的泰雅族孩子</ex_orig>
+					<ex_tran>qniyat balay na laqi tayal.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>優幹的父親說：優幹這個名字，就是正直好義的象徵</ex_orig>
+					<ex_tran>kmayal yaba na yukan mha, pinqesan lalu Yukun hiya ga sʼsu ru mshiyu,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>心地善良又正直</ex_orig>
+					<ex_tran>sʼsu ru mshiyu balay lungan nya,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20061;</k> <!-- 九 -->
+			<def>
+				<deftext>qeru</deftext>
+				<ex>
+					<ex_orig>我九歲了。</ex_orig>
+					<ex_tran>qeru kawas mu la.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>第九課</ex_orig>
+					<ex_tran>te qeru lpgan</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20063;</k> <!-- 也 -->
+			<def>
+				<deftext>uzi</deftext>
+				<ex>
+					<ex_orig>我也很好，</ex_orig>
+					<ex_tran>lokah saku uzi,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我爸爸也很好</ex_orig>
+					<ex_tran>blaq yaba mu uzi.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20107;</k> <!-- 事 -->
+			<def>
+				<deftext>ywaw</deftext>
+				<ex>
+					<ex_orig>帶來美好的事，</ex_orig>
+					<ex_tran>aras balq na ywaw,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>帶來美好的事，</ex_orig>
+					<ex_tran>aras balq na ywaw,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>關於我們泰雅的服飾，</ex_orig>
+					<ex_tran>ywaw na lukus ita tayal hiya ga,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>有它特有的含義。</ex_orig>
+					<ex_tran>maki nanak ywawa nya.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>學習未來生活的技能，</ex_orig>
+					<ex_tran>tqbaq ywaw na gnxan babaw nya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20107;&#20808;</k> <!-- 事先 -->
+			<def>
+				<deftext>lama</deftext>
+				<ex>
+					<ex_orig>每一個家庭準備很多好吃的食物和酒。</ex_orig>
+					<ex_tran>qutux qutux ngasal ta lama kbalay blaq na nniqun ru qwaw.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20107;&#24773;</k> <!-- 事情 -->
+			<def>
+				<deftext>yawu</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20126;&#34907;</k> <!-- 亞衛 -->
+			<def>
+				<deftext>Yawi</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20132;&#21451;</k> <!-- 交友 -->
+			<def>
+				<deftext>srangi</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20154;</k> <!-- 人 -->
+			<def>
+							<def>
+				<deftext>squliq</deftext>
+				<ex>
+					<ex_orig>你家有多少人？</ex_orig>
+					<ex_tran>pira squliq ngasal su?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>好多人在我家。</ex_orig>
+					<ex_tran>piyux balay squliq cyux ngasal mu.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>squliq</deftext>
+				<ex>
+					<ex_orig>你家有多少人？</ex_orig>
+					<ex_tran>pira squliq ngasal su?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>好多人在我家。</ex_orig>
+					<ex_tran>piyux balay squliq cyux ngasal mu.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>squliq</deftext>
+				<ex>
+					<ex_orig>我來自南澳群流域，是泰雅人</ex_orig>
+					<ex_tran>kahul saku llyung klesan,squliq na Tayal ki.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#20160;&#40636;</k> <!-- 什麼 -->
+			<def>
+				<deftext>nanu</deftext>
+				<ex>
+					<ex_orig>我們要吃什麼？</ex_orig>
+					<ex_tran>nanu niqun ta?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們今晚吃什麼？</ex_orig>
+					<ex_tran>nanu niqun ta?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20170;&#22825;</k> <!-- 今天 -->
+			<def>
+							<def>
+				<deftext>soni</deftext>
+				<ex>
+					<ex_orig>是的，我們今天在學校學唱泰雅的歌謠。</ex_orig>
+					<ex_tran>aw! ryax soni ga,wal sami tqbaq qwas na Tayal.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>今天天氣真好！</ex_orig>
+					<ex_tran>blaq balay kayal soni!</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>soni</deftext>
+				<ex>
+					<ex_orig>是的，我們今天在學校學唱泰雅的歌謠。</ex_orig>
+					<ex_tran>aw! ryax soni ga,wal sami tqbaq qwas na Tayal.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>今天天氣真好！</ex_orig>
+					<ex_tran>blaq balay kayal soni!</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#20182;</k> <!-- 他 -->
+			<def>
+							<def>
+				<deftext>hiya</deftext>
+				<ex>
+					<ex_orig>他是誰？</ex_orig>
+					<ex_tran>ima hiya？</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>他是我朋友。</ex_orig>
+					<ex_tran>hiya ga lpyung mu,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>hiya</deftext>
+				<ex>
+					<ex_orig>他是誰？</ex_orig>
+					<ex_tran>ima hiya？</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>他是我朋友。</ex_orig>
+					<ex_tran>hiya ga lpyung mu,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#20182;&#30340;&#21517;&#23383;</k> <!-- 他的名字 -->
+			<def>
+				<deftext>lalu nya</deftext>
+				<ex>
+					<ex_orig>他的名字是尤幹。</ex_orig>
+					<ex_tran>lalu nya ga yukan.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>他的名字叫瓦歷斯。</ex_orig>
+					<ex_tran>lalu nya ga Walis.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20196;&#20154;&#39640;&#33288;</k> <!-- 令人高興 -->
+			<def>
+				<deftext>pqasun</deftext>
+				<ex>
+					<ex_orig>快樂搭公車</ex_orig>
+					<ex_tran>pqasun maku mgluw basuʼ</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>快樂的一天</ex_orig>
+					<ex_tran>pqasun na ryax</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>運動會是一個快樂的日子，</ex_orig>
+					<ex_tran>unrokay ga pqasun na ryax,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>也是遊客們最嚮往的好景點</ex_orig>
+					<ex_tran>pqasun nha balay mwah mcisal qu ssquliq.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20197;&#24460;</k> <!-- 以後 -->
+			<def>
+				<deftext>babaw</deftext>
+				<ex>
+					<ex_orig>將來我的錢會很多。</ex_orig>
+					<ex_tran>aki musa piyux pila mu babaw nya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20219;&#24847;</k> <!-- 任意 -->
+			<def>
+				<deftext>hmci</deftext>
+				<ex>
+					<ex_orig>哥哥：不能任意以隨便的木頭，</ex_orig>
+					<ex_tran>qsuyanl: ini hmci magal mhmut na qhoniq,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>碧水：老師說不能隨意亂摘的花木！</ex_orig>
+					<ex_tran>Pisuy: kmayal snsi ga laxiy hmci hmbet phpah na qhoniq ma!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20320;</k> <!-- 你 -->
+			<def>
+							<def>
+				<deftext>isu</deftext>
+				<ex>
+					<ex_orig>你呢？</ex_orig>
+					<ex_tran>isu ga?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你呢？</ex_orig>
+					<ex_tran>isu ga?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>isu</deftext>
+				<ex>
+					<ex_orig>你呢？</ex_orig>
+					<ex_tran>isu ga?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你呢？</ex_orig>
+					<ex_tran>isu ga?</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#20358;&#21040;</k> <!-- 來到 -->
+			<def>
+				<deftext>muwah</deftext>
+				<ex>
+					<ex_orig>好多的人來到我們的部落，</ex_orig>
+					<ex_tran>khmay balay na squliq muwah qalang myan,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20358;&#28304;</k> <!-- 來源 -->
+			<def>
+				<deftext>cinpuqing</deftext>
+				<ex>
+					<ex_orig>聽到有關泰雅族的來源，</ex_orig>
+					<ex_tran>pnongan maku ywaw na cinpuqing na Tayal.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20358;&#33258;</k> <!-- 來自 -->
+			<def>
+				<deftext>kahul</deftext>
+				<ex>
+					<ex_orig>你從哪裡來？</ex_orig>
+					<ex_tran>kahul su inu？</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我來自松囉。</ex_orig>
+					<ex_tran>kahul saku syanoh.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20445;&#35703;</k> <!-- 保護 -->
+			<def>
+				<deftext>mlahang</deftext>
+				<ex>
+					<ex_orig>保護我們大家。</ex_orig>
+					<ex_tran>mlahang ita kwara.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>爸爸媽媽是照顧孩子的。</ex_orig>
+					<ex_tran>yaya yaba ga mlahang ita laqi.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20462;&#38263;&#30340;</k> <!-- 修長的 -->
+			<def>
+				<deftext>qroyux</deftext>
+				<ex>
+					<ex_orig>我的雙腿修長，</ex_orig>
+					<ex_tran>qroyux kakay mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20551;&#26085;</k> <!-- 假日 -->
+			<def>
+				<deftext>hngaw</deftext>
+				<ex>
+					<ex_orig>假日的時候</ex_orig>
+					<ex_tran>hngaw na ryax ga</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>今天天氣真好！</ex_orig>
+					<ex_tran>blaq balay kayal soni!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>耆老們告誡我們說：孩子們！一定要遵守泰雅的傳統習俗，</ex_orig>
+					<ex_tran>singsu ta nya mrhuw ta mha llaqi si glgi balay gaga ta tayal,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20581;&#24247;</k> <!-- 健康 -->
+			<def>
+				<deftext>lokah</deftext>
+				<ex>
+					<ex_orig>你好嗎?</ex_orig>
+					<ex_tran>lokah su ga?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你好嗎</ex_orig>
+					<ex_tran>lokah su ga?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20599;&#30475;</k> <!-- 偷看 -->
+			<def>
+				<deftext>smyaka</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20599;&#31434;</k> <!-- 偷竊 -->
+			<def>
+				<deftext>mquriq</deftext>
+				<ex>
+					<ex_orig>三、不偷竊。</ex_orig>
+					<ex_tran>3. ini mquriq</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20687;</k> <!-- 像 -->
+			<def>
+				<deftext>iyal</deftext>
+				<ex>
+					<ex_orig>鐵木，你自己努力求學吧，別像我們，</ex_orig>
+					<ex_tran>Temu, qniyat mqwas biru isu nanak, laxi iyal sami.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>他們帶領族人去尋找新的居住地。</ex_orig>
+					<ex_tran>pinaras naha hkani mgiqas na rhiyal qu Tayal.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>六、不隨便侵占別人的土地。</ex_orig>
+					<ex_tran>6. ini hmut qmul hiyal squliq.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20804;&#22986;</k> <!-- 兄姊 -->
+			<def>
+				<deftext>qsuyan</deftext>
+				<ex>
+					<ex_orig>我和哥哥、妹妹每天一起去上學</ex_orig>
+					<ex_tran>knan ru qsuyan mu mlikuy, ru sswe mu kneril ga msqun myan musa mqwas biru krryax.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們的爸爸、媽媽、祖父、祖母和兄弟姊妹也都來參與競賽，</ex_orig>
+					<ex_tran>kwara yaya, yaby, yutas, yaki ru qsuyan sswe mqenah uzi,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>哥哥：就用四根木頭做成琴鍵嗎？</ex_orig>
+					<ex_tran>qsuyan: nanak payat qhoniq galan hkuy nya lpi?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>哥哥：依拜！你敲木頭的聲音真好聽呀！</ex_orig>
+					<ex_tran>qsuyan: Ipay blaq balay pongan hngyang na qhoniq qani!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20804;&#38263;</k> <!-- 兄長 -->
+			<def>
+				<deftext>qsuyan</deftext>
+				<ex>
+					<ex_orig>有爸爸、媽媽、祖父、祖母、嬸嬸、叔叔和哥哥、妹妹。</ex_orig>
+					<ex_tran>yaba, yaya, yutas, yaki, yata, mama ru qsuyan likuy sswe kneril.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>兄姊是照顧所有的弟弟妹妹。</ex_orig>
+					<ex_tran>qsuyan ga mlahang ita kwara sswe.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20839;&#24515;</k> <!-- 內心 -->
+			<def>
+							<def>
+				<deftext>inlungan</deftext>
+				<ex>
+					<ex_orig>若你真有心的話，</ex_orig>
+					<ex_tran>maki balay qu inlungan su ga,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>inlungan</deftext>
+				<ex>
+					<ex_orig>若你真有心的話，</ex_orig>
+					<ex_tran>maki balay qu inlungan su ga,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#20839;&#33247;</k> <!-- 內臟 -->
+			<def>
+				<deftext>qsinuw</deftext>
+				<ex>
+					<ex_orig>是來自於我們的飲食習慣，我們常吃動物的內臟、蝦子、魚...等</ex_orig>
+					<ex_tran>kahul gaga na nniqan ta kwara, qaniq ta gyus qsinuw, kmolung, qulih...</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>山林有很多種的野生動物</ex_orig>
+					<ex_tran>hlahuy ga maki mllamu na qqsinuw,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>如此方能受祖靈地庇佑，並賞賜我們獵物。</ex_orig>
+					<ex_tran>nanu yasa musa ta nya glwanan lqotas ta, biqan ta nya qqsinuw.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>這樣就可以抓到動物了。</ex_orig>
+					<ex_tran>maha kya lga huyay mciriq qsinuw la!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>少女們則必須學會所有的家務事、農事及織布和醃漬山肉。</ex_orig>
+					<ex_tran>kwara krakis, siga lmun qnbaq kwara ywaw na cinngasan, ywaw qmayah, ru ywaw tinun, ru tmami tmmyan qsinuw.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20840;&#37096;</k> <!-- 全部 -->
+			<def>
+				<deftext>kwara</deftext>
+				<ex>
+					<ex_orig>有那些人呢？</ex_orig>
+					<ex_tran>ima kwara pi?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>這些字韻</ex_orig>
+					<ex_tran>kwara biru qani ga</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20841;&#20491;</k> <!-- 兩個 -->
+			<def>
+				<deftext>sazing</deftext>
+				<ex>
+					<ex_orig>第二課</ex_orig>
+					<ex_tran>te sazing lpgan</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>兩個耳朵，兩個眼睛</ex_orig>
+					<ex_tran>sazing papak, saing roziq,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20843;</k> <!-- 八 -->
+			<def>
+				<deftext>spat</deftext>
+				<ex>
+					<ex_orig>瓦旦，我八歲了。</ex_orig>
+					<ex_tran>Watan, spat kawas mu la.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>第八課</ex_orig>
+					<ex_tran>te spat lpgan</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20877;&#35211;</k> <!-- 再見 -->
+			<def>
+				<deftext>sgagay</deftext>
+				<ex>
+					<ex_orig>再見！</ex_orig>
+					<ex_tran>sgagay ta la!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>尤命：一路小心，再見。</ex_orig>
+					<ex_tran>Yumin: thway musa, sgagay ta!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20882;&#40657;&#29017;</k> <!-- 冒黑煙 -->
+			<def>
+				<deftext>sheloq</deftext>
+				<ex>
+					<ex_orig>我們家正在冒黑煙，</ex_orig>
+					<ex_tran>sheloq cinngasal ta,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20986;&#27794;&#36335;&#32218;</k> <!-- 出沒路線 -->
+			<def>
+				<deftext>mhkangi</deftext>
+				<ex>
+					<ex_orig>巴尚：那我們一起去尋找動物的足跡？</ex_orig>
+					<ex_tran>pasang: nanu yasa, halay ta mhkangi cinrapal naha?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20986;&#29694;</k> <!-- 出現 -->
+			<def>
+				<deftext>htu</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20986;&#29983;</k> <!-- 出生 -->
+			<def>
+				<deftext>htgan</deftext>
+				<ex>
+					<ex_orig>我們泰雅人一出生，</ex_orig>
+					<ex_tran>htgan ita tayal lga,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>從裡面出現一對男女，</ex_orig>
+					<ex_tran>htgan qutux mlikuy ru qutux mlikuhy kya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20992;&#23376;</k> <!-- 刀子 -->
+			<def>
+				<deftext>lalaw</deftext>
+				<ex>
+					<ex_orig>背帶裡有泰雅刀和獵槍，</ex_orig>
+					<ex_tran>maki lalaw ru patus zzik tokan kya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#20998;&#38283;</k> <!-- 分開 -->
+			<def>
+				<deftext>sʼalax</deftext>
+				<ex>
+					<ex_orig>我們不分開，天天在一起</ex_orig>
+					<ex_tran>ini sami sʼalax ru msqun myan krryax.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21040;</k> <!-- 到 -->
+			<def>
+							<def>
+				<deftext>tehuk</deftext>
+				<ex>
+					<ex_orig>時間到了！</ex_orig>
+					<ex_tran>tehuk spung la!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>時間到了！我們上學去吧！</ex_orig>
+					<ex_tran>tehuk spung la! hata mqwas biru la!</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>tehuq</deftext>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#21050;&#34031;</k> <!-- 刺蓯 -->
+			<def>
+				<deftext>tana</deftext>
+				<ex>
+					<ex_orig>比水：瓦旦，我準備好了糯米飯，醃肉、醃魚、地瓜、芋頭、龍葵、刺蔥、山茼萵、山胡椒</ex_orig>
+					<ex_tran>Pisuy: Watan, wayan ku snku sumul, tmmyan qsinuw, tmmyan qulih, sehuy, wasiq, tana, yahuw,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21069;&#38754;</k> <!-- 前面 -->
+			<def>
+				<deftext>gleng</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21162;&#21147;</k> <!-- 努力 -->
+			<def>
+				<deftext>klokah</deftext>
+				<ex>
+					<ex_orig>爸爸：我們沒有力氣的時候，你要照顧我們了！</ex_orig>
+					<ex_tran>yaba: ini sami klokah lga, isu mwah klahang sami la.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21220;&#21214;</k> <!-- 勤勞 -->
+			<def>
+							<def>
+				<deftext>qniyat</deftext>
+				<ex>
+					<ex_orig>會常常幫忙做家事</ex_orig>
+					<ex_tran>baq rmaw tiywaw ngasal kryax,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們的祖先沒有痛風、癌症、近視</ex_orig>
+					<ex_tran>bnkis ta raral ga ungat son maha nbu makuy puqu, gang, payat roziq</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>勤奮我們必能得福</ex_orig>
+					<ex_tran>qniyat ga musa ta mqoyat</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我常自己想：「我要努力讀書</ex_orig>
+					<ex_tran>mnglung saku nanak:musa ku qniyat mqwas biru,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>鐵木，你自己努力求學吧，別像我們，</ex_orig>
+					<ex_tran>Temu, qniyat mqwas biru isu nanak, laxi iyal sami.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>qniyat</deftext>
+				<ex>
+					<ex_orig>會常常幫忙做家事</ex_orig>
+					<ex_tran>baq rmaw tiywaw ngasal kryax,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們的祖先沒有痛風、癌症、近視</ex_orig>
+					<ex_tran>bnkis ta raral ga ungat son maha nbu makuy puqu, gang, payat roziq</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>勤奮我們必能得福</ex_orig>
+					<ex_tran>qniyat ga musa ta mqoyat</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我常自己想：「我要努力讀書</ex_orig>
+					<ex_tran>mnglung saku nanak:musa ku qniyat mqwas biru,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>鐵木，你自己努力求學吧，別像我們，</ex_orig>
+					<ex_tran>Temu, qniyat mqwas biru isu nanak, laxi iyal sami.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#21313;</k> <!-- 十 -->
+			<def>
+							<def>
+				<deftext>pusal</deftext>
+				<ex>
+					<ex_orig>他給我二十塊錢。</ex_orig>
+					<ex_tran>pusal pila mniq nya.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mpuw</deftext>
+				<ex>
+					<ex_orig>第十課</ex_orig>
+					<ex_tran>te mpuw lpgan</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>第十一課</ex_orig>
+					<ex_tran>te mpuw qutux lpgan</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#21335;&#23665;</k> <!-- 南山 -->
+			<def>
+							<def>
+				<deftext>Pyanan</deftext>
+				<ex>
+					<ex_orig>我來自南山。</ex_orig>
+					<ex_tran>kahul saku pyanan.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>南山有思源啞口</ex_orig>
+					<ex_tran>Pyanan ga maki quri sqabuʼ、</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>Pyanan</deftext>
+				<ex>
+					<ex_orig>我來自南山。</ex_orig>
+					<ex_tran>kahul saku pyanan.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>南山有思源啞口</ex_orig>
+					<ex_tran>Pyanan ga maki quri sqabuʼ、</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>pyanan</deftext>
+				<ex>
+					<ex_orig>南山、四季種植高冷蔬菜</ex_orig>
+					<ex_tran>qalang pyanan ru qalang skikun ga muya rramat tmana nha;</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#21335;&#23665;&#37096;&#33853;</k> <!-- 南山部落 -->
+			<def>
+				<deftext>qalang Pyanan</deftext>
+				<ex>
+					<ex_orig>我來自南山部落。</ex_orig>
+					<ex_tran>kahul saku, qalang Pyanan.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21335;&#25237;</k> <!-- 南投 -->
+			<def>
+				<deftext>nantow</deftext>
+				<ex>
+					<ex_orig>我的父母親曾帶我去南投，</ex_orig>
+					<ex_tran>yaba yaya maku naras saku nha cisal qalang Nantow,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21335;&#28595;</k> <!-- 南澳 -->
+			<def>
+				<deftext>Nangogoʼ</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21335;&#28595;&#32676;</k> <!-- 南澳群 -->
+			<def>
+				<deftext>klesal</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21335;&#28595;&#37129;</k> <!-- 南澳鄉 -->
+			<def>
+				<deftext>Nangogoʼ</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21345;&#36554;</k> <!-- 卡車 -->
+			<def>
+				<deftext>torak</deftext>
+				<ex>
+					<ex_orig>雅外：我爸爸是開大卡車的。</ex_orig>
+					<ex_tran>Yaway: cyux miray hopa torak yaba mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21435;</k> <!-- 去 -->
+			<def>
+				<deftext>musa</deftext>
+				<ex>
+					<ex_orig>你要去哪裡？</ex_orig>
+					<ex_tran>musa su inu?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>那你要到哪裡去呢？</ex_orig>
+					<ex_tran>musa su inu pi?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21443;&#21152;</k> <!-- 參加 -->
+			<def>
+				<deftext>san(mgluw)</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21448;</k> <!-- 又 -->
+			<def>
+				<deftext>loziy</deftext>
+				<ex>
+					<ex_orig>找到路徑之後再放適合的陷阱</ex_orig>
+					<ex_tran>lwan ta cinrapal nya laga ssi rusa loziy ,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21460;&#21460;</k> <!-- 叔叔 -->
+			<def>
+							<def>
+				<deftext>mama</deftext>
+				<ex>
+					<ex_orig>有爸爸、媽媽、祖父、祖母、嬸嬸、叔叔和哥哥、妹妹。</ex_orig>
+					<ex_tran>yaba, yaya, yutas, yaki, yata, mama ru qsuyan likuy sswe kneril.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>他是我的叔叔</ex_orig>
+					<ex_tran>hiya ga mama mu,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mama</deftext>
+				<ex>
+					<ex_orig>有爸爸、媽媽、祖父、祖母、嬸嬸、叔叔和哥哥、妹妹。</ex_orig>
+					<ex_tran>yaba, yaya, yutas, yaki, yata, mama ru qsuyan likuy sswe kneril.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>他是我的叔叔</ex_orig>
+					<ex_tran>hiya ga mama mu,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#21462;</k> <!-- 取 -->
+			<def>
+				<deftext>smi</deftext>
+				<ex>
+					<ex_orig>則由父親來命名，</ex_orig>
+					<ex_tran>yaba ta mwah smi lalu ,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>泰雅孩子的命名是採取「父子連名」，</ex_orig>
+					<ex_tran>mʼubuy lalu yaba qu smi lalu laqi tayal hiya,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>有取用祖先的名字來命名。</ex_orig>
+					<ex_tran>sʼagan lalu bnkis mwah smi lalu laqi.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>泰雅人的名字很奇特又有意義，</ex_orig>
+					<ex_tran>minnanak balay ru maki ywaw nya smi lalu tayal qani,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>他教我設陷阱和放鐵夾的方法，</ex_orig>
+					<ex_tran>cbaqan saku nya smi rusa ru mbhul ttuʼ,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21462;&#33258;</k> <!-- 取自 -->
+			<def>
+				<deftext>sʼagal</deftext>
+				<ex>
+					<ex_orig>也有取之於動物，</ex_orig>
+					<ex_tran>maki sʼagal nha lalu qqsinux.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>或者從花草的名稱來取名，</ex_orig>
+					<ex_tran>ini ga sʼagal nha lalu kʼman smi lalu,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21463;&#20663;</k> <!-- 受傷 -->
+			<def>
+				<deftext>qilis</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21475;&#20986;&#29378;&#35328;</k> <!-- 口出狂言 -->
+			<def>
+				<deftext>tksyaw</deftext>
+				<ex>
+					<ex_orig>七、在狩獵時不可口出誑言及嬉鬧。</ex_orig>
+					<ex_tran>7. qmalup ga,ini tksyaw kmal ru hyapas.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21488;&#21271;</k> <!-- 台北 -->
+			<def>
+				<deftext>bnka</deftext>
+				<ex>
+					<ex_orig>吉娃斯：我要帶小孩去台北玩。</ex_orig>
+					<ex_tran>Ciwas: paras saku cisan bnka laqi maku.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21488;&#28771;</k> <!-- 台灣 -->
+			<def>
+				<deftext>taywan</deftext>
+				<ex>
+					<ex_orig>現在台灣的原住民共有十六族了。</ex_orig>
+					<ex_tran>mpuw tiyu kwara Genzyumin rok qu Taywan misu la.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21507;</k> <!-- 吃 -->
+			<def>
+							<def>
+				<deftext>maniq</deftext>
+				<ex>
+					<ex_orig>認真吃。</ex_orig>
+					<ex_tran>lokah maniq.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>到那兒吃飯去。</ex_orig>
+					<ex_tran>musa ku maniq mami kya.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>niqun</deftext>
+				<ex>
+					<ex_orig>我們要吃什麼？</ex_orig>
+					<ex_tran>nanu niqun ta?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們今晚吃什麼？</ex_orig>
+					<ex_tran>nanu niqun ta?</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#21507;&#36942;</k> <!-- 吃過 -->
+			<def>
+				<deftext>naniq</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21516;&#36649;&#26379;&#21451;</k> <!-- 同輩朋友 -->
+			<def>
+				<deftext>rawin</deftext>
+				<ex>
+					<ex_orig>朋友尤幹</ex_orig>
+					<ex_tran>rawin Yukan kahul su inu</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21517;&#23383;</k> <!-- 名字 -->
+			<def>
+							<def>
+				<deftext>lalu</deftext>
+				<ex>
+					<ex_orig>你叫什麼名字?</ex_orig>
+					<ex_tran>ima lalu su?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你叫什麼名字?</ex_orig>
+					<ex_tran>ima lalu su?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>lalu</deftext>
+				<ex>
+					<ex_orig>你叫什麼名字?</ex_orig>
+					<ex_tran>ima lalu su?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你叫什麼名字?</ex_orig>
+					<ex_tran>ima lalu su?</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#21558;&#21898;</k> <!-- 吶喊 -->
+			<def>
+				<deftext>hmwaw</deftext>
+				<ex>
+					<ex_orig>泰雅的呼喊</ex_orig>
+					<ex_tran>hmwaw na tayal</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21561;&#22863;</k> <!-- 吹奏 -->
+			<def>
+				<deftext>tlubuw</deftext>
+				<ex>
+					<ex_orig>一面吹奏口簧琴一面雙腳交互單跳躍舞動</ex_orig>
+					<ex_tran>tlubuw ga pʼyugun naha mstoput kakay ru ppiyiy.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21644;</k> <!-- 和 -->
+			<def>
+				<deftext>ru</deftext>
+				<ex>
+					<ex_orig>有爸爸、媽媽、祖父、祖母、嬸嬸、叔叔和哥哥、妹妹。</ex_orig>
+					<ex_tran>yaba, yaya, yutas, yaki, yata, mama ru qsuyan likuy sswe kneril.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>那真好呀！加油！</ex_orig>
+					<ex_tran>yasa blaq ru! lokah ki!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21681;&#20497;&#21435;</k> <!-- 咱們去 -->
+			<def>
+				<deftext>hata</deftext>
+				<ex>
+					<ex_orig>我們一起去玩兒好嗎？</ex_orig>
+					<ex_tran>hata cisal ma?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們去打球</ex_orig>
+					<ex_tran>hata mzuy mari</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21703;&#22139;</k> <!-- 哇噻 -->
+			<def>
+				<deftext>wagaw</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21703;&#65281;</k> <!-- 哇！ -->
+			<def>
+				<deftext>talagay</deftext>
+				<ex>
+					<ex_orig>比魯：哇！真大隻。</ex_orig>
+					<ex_tran>Piru: talagay hopa balay.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>哇賽！這位老先生吹奏的真好聽！</ex_orig>
+					<ex_tran>talagay! blaq balay pungan tlpungan biq qu bniks qani</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>菈嬪：好多的事喔 !</ex_orig>
+					<ex_tran>Laping：talagay ! piyux ywaw nya.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>尤嘮：哇！你知道好多泰雅族的草藥！</ex_orig>
+					<ex_tran>Yuraw：talagay! piyux balay iyu kʼman na ita tayal ga nyux su baqun !</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21704;&#21191;&#24067;&#24184;</k> <!-- 哈勇布幸 -->
+			<def>
+				<deftext>hayung-pusin</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21733;&#20126;&#24067;&#25142;</k> <!-- 哥亞布戶 -->
+			<def>
+				<deftext>Kmyabox</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21733;&#24067;&#22823;</k> <!-- 哥布大 -->
+			<def>
+				<deftext>Kbuta</deftext>
+				<ex>
+					<ex_orig>泰雅人有三位領袖，包含「哥布大」、「哥亞布戶」、「哥麻樣」，</ex_orig>
+					<ex_tran>tugal hi qu Mrhuw na Tayal, maki Kbuta, Kmyabux, Kmayan.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21733;&#40635;&#27171;</k> <!-- 哥麻樣 -->
+			<def>
+				<deftext>Kmayan</deftext>
+				<ex>
+					<ex_orig>泰雅人有三位領袖，包含「哥布大」、「哥亞布戶」、「哥麻樣」，</ex_orig>
+					<ex_tran>tugal hi qu Mrhuw na Tayal, maki Kbuta, Kmyabux, Kmayan.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21738;&#20818;&#19981;&#33298;&#26381;</k> <!-- 哪兒不舒服 -->
+			<def>
+				<deftext>inu kʼmxal su</deftext>
+				<ex>
+					<ex_orig>雅素：你哪兒不舒服呢？</ex_orig>
+					<ex_tran>Yasu: inu kʼmxal su?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21738;&#35041;</k> <!-- 哪裡 -->
+			<def>
+							<def>
+				<deftext>inu</deftext>
+				<ex>
+					<ex_orig>你從哪裡來？</ex_orig>
+					<ex_tran>kahul su inu？</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>尤幹，你從哪裡來？</ex_orig>
+					<ex_tran>Yukan, kahu su inu?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>inu</deftext>
+				<ex>
+					<ex_orig>你從哪裡來？</ex_orig>
+					<ex_tran>kahul su inu？</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>尤幹，你從哪裡來？</ex_orig>
+					<ex_tran>Yukan, kahu su inu?</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#21898;&#21483;</k> <!-- 喊叫 -->
+			<def>
+				<deftext>mlawa</deftext>
+				<ex>
+					<ex_orig>領袖就會用呼喊或敲擊竹子的方式，</ex_orig>
+					<ex_tran>mrhuw ga hwaw mlawa ru tmucing rruma</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#21916;&#27489;</k> <!-- 喜歡 -->
+			<def>
+							<def>
+				<deftext>syon</deftext>
+				<ex>
+					<ex_orig>你喜歡吃什麼水果？</ex_orig>
+					<ex_tran>nanu syon su maniq pi?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>siyon</deftext>
+				<ex>
+					<ex_orig>尤幹：這些我也都喜歡</ex_orig>
+					<ex_tran>yukan: kwara qani ga siyon mu uzi.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>qsliq</deftext>
+			</def>			<def>
+				<deftext>smoya</deftext>
+				<ex>
+					<ex_orig>名叫優幹，很喜歡交朋友</ex_orig>
+					<ex_tran>Yukan lalu nya,smoya balay slpyung squliq,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>都非常喜歡唱歌。</ex_orig>
+					<ex_tran>smoya balay mqwas qwas kwara</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#22068;&#24052;</k> <!-- 嘴巴 -->
+			<def>
+							<def>
+				<deftext>nqwaq</deftext>
+				<ex>
+					<ex_orig>一個鼻子，一個(我的)嘴巴</ex_orig>
+					<ex_tran>qutux nguhuw, qutux nqwaq mu.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>nkwaq</deftext>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#22137;</k> <!-- 噹 -->
+			<def>
+				<deftext>tang</deftext>
+				<ex>
+					<ex_orig>噹！噹！噹！</ex_orig>
+					<ex_tran>tang! tang! tang!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22235;&#23395;</k> <!-- 四季 -->
+			<def>
+							<def>
+				<deftext>Skikun</deftext>
+			</def>			<def>
+				<deftext>skikun</deftext>
+				<ex>
+					<ex_orig>南山、四季種植高冷蔬菜</ex_orig>
+					<ex_tran>qalang pyanan ru qalang skikun ga muya rramat tmana nha;</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#22235;&#38587;&#30524;&#30555;</k> <!-- 四隻眼睛 -->
+			<def>
+				<deftext>payat roziq</deftext>
+				<ex>
+					<ex_orig>我們的祖先沒有痛風、癌症、近視</ex_orig>
+					<ex_tran>bnkis ta raral ga ungat son maha nbu makuy puqu, gang, payat roziq</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22283;&#27665;&#23567;&#23416;</k> <!-- 國民小學 -->
+			<def>
+				<deftext>koku min gako</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22291;&#22291;&#30340;</k> <!-- 圓圓的 -->
+			<def>
+				<deftext>mtumaw</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22296;&#32858;</k> <!-- 團聚 -->
+			<def>
+				<deftext>mrimuy</deftext>
+				<ex>
+					<ex_orig>聚集成群的女人們，</ex_orig>
+					<ex_tran>mrimuy su rimuy yan,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22303;&#22320;</k> <!-- 土地 -->
+			<def>
+				<deftext>uraw</deftext>
+				<ex>
+					<ex_orig>尤嘮：媽媽，你知道嗎？</ex_orig>
+					<ex_tran>Yuraw：aya baqun su ga?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>尤嘮：媽媽，那個藥草好嗎？</ex_orig>
+					<ex_tran>Yuraw：aya, blaq iyu kʼman qasa?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22312;&#19968;&#36215;</k> <!-- 在一起 -->
+			<def>
+							<def>
+				<deftext>msqun</deftext>
+				<ex>
+					<ex_orig>我們常常在一起很快樂。</ex_orig>
+					<ex_tran>mqas sami balay msqun kryax</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>瓦旦：當然可以！走啊！一起去看</ex_orig>
+					<ex_tran>Watan: aw ga! hata msqun mita.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>msqun</deftext>
+				<ex>
+					<ex_orig>一路上看到他們在一起唱歌跳舞。</ex_orig>
+					<ex_tran>cka tuqi kya ga ktan myan nyux msqun myugi ru mqwas naha.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#22320;&#29916;</k> <!-- 地瓜 -->
+			<def>
+							<def>
+				<deftext>ngahi</deftext>
+			</def>			<def>
+				<deftext>ngahi</deftext>
+				<ex>
+					<ex_orig>種地瓜、播種小米</ex_orig>
+					<ex_tran>muhiy ngahi, tmubux lmyun,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#22521;&#22827;&#20197;</k> <!-- 培夫以 -->
+			<def>
+				<deftext>behuy</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22686;&#21152;</k> <!-- 增加 -->
+			<def>
+				<deftext>tmwan</deftext>
+				<ex>
+					<ex_orig>努力求學，</ex_orig>
+					<ex_tran>lokah tmwang mqwas biru,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22750;</k> <!-- 壞 -->
+			<def>
+				<deftext>yaqeh</deftext>
+				<ex>
+					<ex_orig>他的職責是抓壞人，</ex_orig>
+					<ex_tran>musa kmiyap yaqeh na squliq,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22810;</k> <!-- 多 -->
+			<def>
+							<def>
+				<deftext>piyux</deftext>
+				<ex>
+					<ex_orig>好多人在我家。</ex_orig>
+					<ex_tran>piyux balay squliq cyux ngasal mu.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>好多人。</ex_orig>
+					<ex_tran>piyux balay squliq nya.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>pyux</deftext>
+				<ex>
+					<ex_orig>將來我的錢會很多。</ex_orig>
+					<ex_tran>aki musa piyux pila mu babaw nya.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#22810;&#23569;</k> <!-- 多少 -->
+			<def>
+				<deftext>pira</deftext>
+				<ex>
+					<ex_orig>你幾歲了？</ex_orig>
+					<ex_tran>pira kawas su?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>莎韻，你幾歲了？</ex_orig>
+					<ex_tran>Sayun, pira kawas su la?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22816;</k> <!-- 夠 -->
+			<def>
+				<deftext>tnaq</deftext>
+				<ex>
+					<ex_orig>我的錢不夠買玩具。</ex_orig>
+					<ex_tran>ini tnaq baziy kaka pila mu</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們的名字不同。</ex_orig>
+					<ex_tran>ini tnaq lalu ta.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22823;</k> <!-- 大 -->
+			<def>
+				<deftext>hopa</deftext>
+				<ex>
+					<ex_orig>雅外：我爸爸是開大卡車的。</ex_orig>
+					<ex_tran>Yaway: cyux miray hopa torak yaba mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22823;&#21516;&#37129;</k> <!-- 大同鄉 -->
+			<def>
+				<deftext>Rayrogoʼ</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22823;&#23478;</k> <!-- 大家 -->
+			<def>
+				<deftext>kwara</deftext>
+				<ex>
+					<ex_orig>都非常喜歡唱歌。</ex_orig>
+					<ex_tran>smoya balay mqwas qwas kwara</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>席達：如果今天你能完成所有的事，並織好了布，</ex_orig>
+					<ex_tran>Sita：kyaqu ryax soni suqun su kwara ywaw ru masuq su cinun lga !</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>每一個家庭，都不一樣</ex_orig>
+					<ex_tran>ini ptnaq kwara gaga na qutux qutux ngasal ,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>誰在照顧部落的家家戶戶，</ex_orig>
+					<ex_tran>ima nyux mlahang kwara ngasal qalang ta,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>讓全部落的人都聽見之後，</ex_orig>
+					<ex_tran>pungan hngiyang kwara squliq qalang lga ,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22823;&#30340;</k> <!-- 大的 -->
+			<def>
+				<deftext>hopa</deftext>
+				<ex>
+					<ex_orig>雅外：我爸爸是開大卡車的。</ex_orig>
+					<ex_tran>Yaway: cyux miray hopa torak yaba mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22825;&#22825;</k> <!-- 天天 -->
+			<def>
+							<def>
+				<deftext>krryax</deftext>
+				<ex>
+					<ex_orig>我們要不斷反覆聽說讀寫，我們來聽一段歌，好嗎？</ex_orig>
+					<ex_tran>lpgaw ta krryax ki pongay ta cikay qwas ki?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>krryax</deftext>
+				<ex>
+					<ex_orig>比水：瓦旦，我準備好了糯米飯，醃肉、醃魚、地瓜、芋頭、龍葵、刺蔥、山茼萵、山胡椒</ex_orig>
+					<ex_tran>Pisuy: Watan, wayan ku snku sumul, tmmyan qsinuw, tmmyan qulih, sehuy, wasiq, tana, yahuw,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>名叫優幹，很喜歡交朋友</ex_orig>
+					<ex_tran>Yukan lalu nya,smoya balay slpyung squliq,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>八、不可獵殺懷孕或幼小的動物。</ex_orig>
+					<ex_tran>8.mkiʼan ru mbhku qu qqsinuw ga ini qlupiy.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#22825;&#27683;</k> <!-- 天氣 -->
+			<def>
+				<deftext>kayal</deftext>
+				<ex>
+					<ex_orig>今天天氣真好！</ex_orig>
+					<ex_tran>blaq balay kayal soni!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22826;&#38525;</k> <!-- 太陽 -->
+			<def>
+				<deftext>wagi</deftext>
+				<ex>
+					<ex_orig>成群的男人們（太陽），</ex_orig>
+					<ex_tran>lahuy su na wagi ta strau,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22846;&#21040;</k> <!-- 夾到 -->
+			<def>
+				<deftext>ciriq</deftext>
+				<ex>
+					<ex_orig>這樣就可以抓到動物了。</ex_orig>
+					<ex_tran>maha kya lga huyay mciriq qsinuw la!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22846;&#21205;&#29289;</k> <!-- 夾動物 -->
+			<def>
+				<deftext>rusa</deftext>
+				<ex>
+					<ex_orig>找到路徑之後再放適合的陷阱</ex_orig>
+					<ex_tran>lwan ta cinrapal nya laga ssi rusa loziy ,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>如吊脖子陷阱、石板陷阱、吊腳陷阱等，</ex_orig>
+					<ex_tran>syan ta rusa, rangay, kakay lga,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>他教我設陷阱和放鐵夾的方法，</ex_orig>
+					<ex_tran>cbaqan saku nya smi rusa ru mbhul ttuʼ,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22846;&#40165;&#39006;</k> <!-- 夾鳥類 -->
+			<def>
+				<deftext>kakay</deftext>
+				<ex>
+					<ex_orig>如吊脖子陷阱、石板陷阱、吊腳陷阱等，</ex_orig>
+					<ex_tran>syan ta rusa, rangay, kakay lga,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22899;</k> <!-- 女 -->
+			<def>
+				<deftext>kneril</deftext>
+				<ex>
+					<ex_orig>有爸爸、媽媽、祖父、祖母、嬸嬸、叔叔和哥哥、妹妹。</ex_orig>
+					<ex_tran>yaba, yaya, yutas, yaki, yata, mama ru qsuyan likuy sswe kneril.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22905;&#20182;</k> <!-- 她他 -->
+			<def>
+				<deftext>hiya</deftext>
+				<ex>
+					<ex_orig>他是誰？</ex_orig>
+					<ex_tran>ima hiya？</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>他是我朋友。</ex_orig>
+					<ex_tran>hiya ga lpyung mu,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22909;</k> <!-- 好 -->
+			<def>
+							<def>
+				<deftext>lokah</deftext>
+				<ex>
+					<ex_orig>你好嗎?</ex_orig>
+					<ex_tran>lokah su ga?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你好嗎</ex_orig>
+					<ex_tran>lokah su ga?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>blaq</deftext>
+				<ex>
+					<ex_orig>那真好呀！加油！</ex_orig>
+					<ex_tran>yasa blaq ru! lokah ki!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你好嗎？</ex_orig>
+					<ex_tran>blaq su ga?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>blaq</deftext>
+				<ex>
+					<ex_orig>好讓你們在現代社會裡獲得美好的生活。</ex_orig>
+					<ex_tran>teta simu magal mblaq na inqyanux misu, babaw nya.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們的祖先非常有智慧，</ex_orig>
+					<ex_tran>blaq balay tunux bnkis ta hiya,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>家庭生活才會幸福美滿。</ex_orig>
+					<ex_tran>musa blaq qnxan qu ngasal su uzi.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>凡是所有的美好事物，</ex_orig>
+					<ex_tran>kwara kinblaq qu qqaya,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#22909;&#27604;</k> <!-- 好比 -->
+			<def>
+				<deftext>sgiwan</deftext>
+				<ex>
+					<ex_orig>象徵著祖靈的眼睛，</ex_orig>
+					<ex_tran>sgiwan roziq na bnkis san naha.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#22986;&#22986;</k> <!-- 姊姊 -->
+			<def>
+				<deftext>qsuyan kneril</deftext>
+				<ex>
+					<ex_orig>姊姊牙齒很痛。</ex_orig>
+					<ex_tran>mxan balay gʼnux qsuyan kneril.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23229;&#23229;</k> <!-- 媽媽 -->
+			<def>
+				<deftext>yaya</deftext>
+				<ex>
+					<ex_orig>你媽媽是誰？</ex_orig>
+					<ex_tran>ima yaya su?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>有爸爸、媽媽、祖父、祖母、嬸嬸、叔叔和哥哥、妹妹。</ex_orig>
+					<ex_tran>yaba, yaya, yutas, yaki, yata, mama ru qsuyan likuy sswe kneril.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23352;&#23352;</k> <!-- 嬸嬸 -->
+			<def>
+							<def>
+				<deftext>yata</deftext>
+				<ex>
+					<ex_orig>有爸爸、媽媽、祖父、祖母、嬸嬸、叔叔和哥哥、妹妹。</ex_orig>
+					<ex_tran>yaba, yaya, yutas, yaki, yata, mama ru qsuyan likuy sswe kneril.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>他是我的嬸嬸，</ex_orig>
+					<ex_tran>hiya ga yata mu,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>yata</deftext>
+				<ex>
+					<ex_orig>有爸爸、媽媽、祖父、祖母、嬸嬸、叔叔和哥哥、妹妹。</ex_orig>
+					<ex_tran>yaba, yaya, yutas, yaki, yata, mama ru qsuyan likuy sswe kneril.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>他是我的嬸嬸，</ex_orig>
+					<ex_tran>hiya ga yata mu,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#23383;</k> <!-- 字 -->
+			<def>
+				<deftext>biru</deftext>
+				<ex>
+					<ex_orig>努力看書。</ex_orig>
+					<ex_tran>lokah mita biru.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的作業很多。</ex_orig>
+					<ex_tran>piyux balay biru mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23384;</k> <!-- 存 -->
+			<def>
+				<deftext>skwan</deftext>
+				<ex>
+					<ex_orig>我要把我的書收藏。</ex_orig>
+					<ex_tran>skwan mu biru mu.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我也要把我的玩具收藏。</ex_orig>
+					<ex_tran>skwan mu kaka mu uzi.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23401;&#23376;&#20497;</k> <!-- 孩子們 -->
+			<def>
+				<deftext>llaqi</deftext>
+				<ex>
+					<ex_orig>泰雅的兒女們，</ex_orig>
+					<ex_tran>llaqi na tayal,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>泰雅的兒女們，</ex_orig>
+					<ex_tran>llaqi na tayal,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>耆老們告誡我們說：孩子們！一定要遵守泰雅的傳統習俗，</ex_orig>
+					<ex_tran>singsu ta nya mrhuw ta mha llaqi si glgi balay gaga ta tayal,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>非常恩愛，子孫繁衍眾多。</ex_orig>
+					<ex_tran>mqssliq naha ru,mbhuyaw llaqi naha.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23416;&#26657;</k> <!-- 學校 -->
+			<def>
+				<deftext>pqwasan</deftext>
+				<ex>
+					<ex_orig>雅外：我爸爸在學校當老師。</ex_orig>
+					<ex_tran>Yaway: cyux galun snsi pqwasan na biru yaba mu hiya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23416;&#32722;</k> <!-- 學習 -->
+			<def>
+							<def>
+				<deftext>tqbaq</deftext>
+				<ex>
+					<ex_orig>是的，我們今天在學校學唱泰雅的歌謠。</ex_orig>
+					<ex_tran>aw! ryax soni ga,wal sami tqbaq qwas na Tayal.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>比南：我們也來學打獵和編織好嗎？</ex_orig>
+					<ex_tran>Pinan: tqbaq tq qmalup ru tminun uzi ma?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mqbaq</deftext>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#23436;&#30050;</k> <!-- 完畢 -->
+			<def>
+				<deftext>masuq</deftext>
+				<ex>
+					<ex_orig>我寫完作業了。</ex_orig>
+					<ex_tran>masuq saku miru la.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我跳完舞了。</ex_orig>
+					<ex_tran>masuq saku myugi la.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23478;</k> <!-- 家 -->
+			<def>
+							<def>
+				<deftext>ngasal</deftext>
+				<ex>
+					<ex_orig>你家有多少人？</ex_orig>
+					<ex_tran>pira squliq ngasal su?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>誰在你家</ex_orig>
+					<ex_tran>ima cyux ngasal su?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>cinngasal</deftext>
+				<ex>
+					<ex_orig>我的家人</ex_orig>
+					<ex_tran>cinngasal mu</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的家有七個人</ex_orig>
+					<ex_tran>pitu hi cinngasal mu.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們全家過著快樂的生活</ex_orig>
+					<ex_tran>mqas inqyanux qu cinngasal myan.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#23478;&#37129;</k> <!-- 家鄉 -->
+			<def>
+							<def>
+				<deftext>qalang</deftext>
+				<ex>
+					<ex_orig>我的家鄉</ex_orig>
+					<ex_tran>qalang maku</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>在我的家鄉生活感覺真好</ex_orig>
+					<ex_tran>innglung ku blaq inqyanux mu balay maki qalang maku,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>好多的人來到我們的部落，</ex_orig>
+					<ex_tran>khmay balay na squliq muwah qalang myan,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的家鄉真好玩</ex_orig>
+					<ex_tran>blaq balay pziʼ un qalang maku</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>qalang</deftext>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#23487;&#37257;</k> <!-- 宿醉 -->
+			<def>
+				<deftext>sqwagan</deftext>
+				<ex>
+					<ex_orig>山林有很多種的野生動物</ex_orig>
+					<ex_tran>hlahuy ga maki mllamu na qqsinuw,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23506;&#28330;</k> <!-- 寒溪 -->
+			<def>
+							<def>
+				<deftext>stacis</deftext>
+				<ex>
+					<ex_orig>我的家鄉名叫寒溪</ex_orig>
+					<ex_tran>qalang maku ga Stacis</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>這話語帶來生命的傳承，</ex_orig>
+					<ex_tran>keʼ qani ga pʼaras insuna,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>才能養育兒女，</ex_orig>
+					<ex_tran>thuyay su qmayat laqi su,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>stacis</deftext>
+				<ex>
+					<ex_orig>寒溪雨水很豐沛</ex_orig>
+					<ex_tran>qalang stacis ga msyaw qwalax nya,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#23532;&#21402;&#30340;</k> <!-- 寬厚的 -->
+			<def>
+				<deftext>khmay</deftext>
+				<ex>
+					<ex_orig>我的胸膛寬厚</ex_orig>
+					<ex_tran>khmay skutaw mu.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>當人口越來越多的時候，</ex_orig>
+					<ex_tran>trang khmay qu ssquliq lga,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23556;</k> <!-- 射 -->
+			<def>
+				<deftext>msbuʼ</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23559;&#24950;&#31069;</k> <!-- 將慶祝 -->
+			<def>
+				<deftext>pqasay</deftext>
+				<ex>
+					<ex_orig>我們家將要接香火，為此事來慶祝。</ex_orig>
+					<ex_tran>pagal qbuli cinngasal ta pqasay ta ya ryax na soni.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23559;&#25645;&#20056;</k> <!-- 將搭乘 -->
+			<def>
+				<deftext>pgluw</deftext>
+				<ex>
+					<ex_orig>還是坐火車？</ex_orig>
+					<ex_tran>iyat ga pgluw su kisyaʼ?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>吉娃斯：我要搭公車去。</ex_orig>
+					<ex_tran>Ciwas: pgluw saku basuʼ musa.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23559;&#35201;&#21462;</k> <!-- 將要取 -->
+			<def>
+				<deftext>pagal</deftext>
+				<ex>
+					<ex_orig>我們家將要娶媳婦</ex_orig>
+					<ex_tran>pagal ina cinngasal ta</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>聚集成群的女人們，</ex_orig>
+					<ex_tran>mrimuy su rimuy yan,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>帶來美好的事，</ex_orig>
+					<ex_tran>aras balq na ywaw,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23560;&#38263;</k> <!-- 專長 -->
+			<def>
+				<deftext>kinbaqan</deftext>
+				<ex>
+					<ex_orig>尤幹他的專長是跳舞，</ex_orig>
+					<ex_tran>kinbaqan nqu yukan hiya ga myugi,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>比南：你的叔叔專長是什麼？</ex_orig>
+					<ex_tran>Pinan: nanu kinbaqan nqu mama su?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23567;</k> <!-- 小 -->
+			<def>
+				<deftext>cipoq</deftext>
+				<ex>
+					<ex_orig>我的嘴巴小小的，</ex_orig>
+					<ex_tran>cipoq nqwaq mu,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>少一些吃與喝</ex_orig>
+					<ex_tran>cipoq ta hazi mnbuw ru qqaniq</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23567;&#23401;</k> <!-- 小孩 -->
+			<def>
+				<deftext>laqiy</deftext>
+				<ex>
+					<ex_orig>而泰雅的子弟是聽話又肯幫忙做家事</ex_orig>
+					<ex_tran>laqiy tayal ga mung ke ru soya rmaw mtiywaw ngasal</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23567;&#24515;</k> <!-- 小心 -->
+			<def>
+				<deftext>thuway</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23567;&#27683;</k> <!-- 小氣 -->
+			<def>
+				<deftext>kyubing</deftext>
+				<ex>
+					<ex_orig>四、不自私。</ex_orig>
+					<ex_tran>4. ini kyubing.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23567;&#33145;</k> <!-- 小腹 -->
+			<def>
+				<deftext>nbwas</deftext>
+				<ex>
+					<ex_orig>我的小腹不大</ex_orig>
+					<ex_tran>ini shopa nbwas mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23588;&#21214;</k> <!-- 尤勞 -->
+			<def>
+				<deftext>Yuraw</deftext>
+				<ex>
+					<ex_orig>我叫瓦旦．尤勞。</ex_orig>
+					<ex_tran>Watan Yuraw lalu mu.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>尤勞！那你參加哪一項比賽呢？</ex_orig>
+					<ex_tran>Yuraw! nanuʼson su ps pung isu hiya?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23588;&#24185;</k> <!-- 尤幹 -->
+			<def>
+							<def>
+				<deftext>Yukan</deftext>
+				<ex>
+					<ex_orig>我叫莎韻．尤幹。</ex_orig>
+					<ex_tran>Sayun Yukan lalu mu.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>他的名字是尤幹。</ex_orig>
+					<ex_tran>lalu nya ga yukan.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>Yukan</deftext>
+				<ex>
+					<ex_orig>我叫莎韻．尤幹。</ex_orig>
+					<ex_tran>Sayun Yukan lalu mu.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>他的名字是尤幹。</ex_orig>
+					<ex_tran>lalu nya ga yukan.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#23588;&#32102;</k> <!-- 尤給 -->
+			<def>
+				<deftext>yuki</deftext>
+				<ex>
+					<ex_orig>他的名字叫尤給。</ex_orig>
+					<ex_tran>lalu nya ga yuki,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23617;&#32929;</k> <!-- 屁股 -->
+			<def>
+				<deftext>qcyan</deftext>
+				<ex>
+					<ex_orig>我的臀部結實，</ex_orig>
+					<ex_tran>khtuw qcyan mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23665;</k> <!-- 山 -->
+			<def>
+				<deftext>hlahuy</deftext>
+				<ex>
+					<ex_orig>山林有很多種的野生動物</ex_orig>
+					<ex_tran>hlahuy ga maki mllamu na qqsinuw,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>穿過那森林，</ex_orig>
+					<ex_tran>krayas ska na hlahuy,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的祖父曾經帶我到深山，</ex_orig>
+					<ex_tran>yutas mu ga,naras saku nya zzik na hlahuy,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23665;&#19978;</k> <!-- 山上 -->
+			<def>
+							<def>
+				<deftext>rgyax</deftext>
+				<ex>
+					<ex_orig>尤幹：巴尚，你最喜歡山上的哪些動物？</ex_orig>
+					<ex_tran>yukan: pasang, nanu siyun su qqsinuw na rgyax.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>到山上玩</ex_orig>
+					<ex_tran>hata mzyuy rgyax</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>明天一早我們上山打獵</ex_orig>
+					<ex_tran>Piling:mzibuq sasan suxan hata qmalup rgyax.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>來自山上的小孩，</ex_orig>
+					<ex_tran>laqi knahul beh rgyax,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>美妙的歌聲，從那山頂傳過來，</ex_orig>
+					<ex_tran>hyuci na pinqwasan ,hintgan kahul babaw na rgyax,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>rgyax</deftext>
+				<ex>
+					<ex_orig>尤幹：巴尚，你最喜歡山上的哪些動物？</ex_orig>
+					<ex_tran>yukan: pasang, nanu siyun su qqsinuw na rgyax.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>到山上玩</ex_orig>
+					<ex_tran>hata mzyuy rgyax</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>明天一早我們上山打獵</ex_orig>
+					<ex_tran>Piling:mzibuq sasan suxan hata qmalup rgyax.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>來自山上的小孩，</ex_orig>
+					<ex_tran>laqi knahul beh rgyax,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>美妙的歌聲，從那山頂傳過來，</ex_orig>
+					<ex_tran>hyuci na pinqwasan ,hintgan kahul babaw na rgyax,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#23665;&#28567;&#27700;</k> <!-- 山澗水 -->
+			<def>
+				<deftext>gon</deftext>
+				<ex>
+					<ex_orig>擁有豐沛不絕的水資源和溪流</ex_orig>
+					<ex_tran>maki ini skyut na qsya ru ggong uzi.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23665;&#32650;</k> <!-- 山羊 -->
+			<def>
+				<deftext>mit</deftext>
+				<ex>
+					<ex_orig>巴尚：我喜歡山豬、飛鼠、臭鼬、熊、狐狸和山羊</ex_orig>
+					<ex_tran>pasang: siyun maku bzyok, yapit, piku, ngarux, qbux ru mit.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23665;&#32993;&#26898;</k> <!-- 山胡椒 -->
+			<def>
+				<deftext>maqaw</deftext>
+				<ex>
+					<ex_orig>比水：瓦旦，我準備好了糯米飯，醃肉、醃魚、地瓜、芋頭、龍葵、刺蔥、山茼萵、山胡椒</ex_orig>
+					<ex_tran>Pisuy: Watan, wayan ku snku sumul, tmmyan qsinuw, tmmyan qulih, sehuy, wasiq, tana, yahuw,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23665;&#33596;&#33845;</k> <!-- 山茼萵 -->
+			<def>
+				<deftext>yahuw</deftext>
+				<ex>
+					<ex_orig>比水：瓦旦，我準備好了糯米飯，醃肉、醃魚、地瓜、芋頭、龍葵、刺蔥、山茼萵、山胡椒</ex_orig>
+					<ex_tran>Pisuy: Watan, wayan ku snku sumul, tmmyan qsinuw, tmmyan qulih, sehuy, wasiq, tana, yahuw,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23665;&#35948;</k> <!-- 山豬 -->
+			<def>
+							<def>
+				<deftext>biyoq</deftext>
+				<ex>
+					<ex_orig>馬賴：那是小山豬。</ex_orig>
+					<ex_tran>Maray: uyuk biyoq qasa hiya.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>bzyok</deftext>
+				<ex>
+					<ex_orig>巴尚：我喜歡山豬、飛鼠、臭鼬、熊、狐狸和山羊</ex_orig>
+					<ex_tran>pasang: siyun maku bzyok, yapit, piku, ngarux, qbux ru mit.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#23665;&#37251;&#32905;</k> <!-- 山醃肉 -->
+			<def>
+				<deftext>tmmyan qsinuw</deftext>
+				<ex>
+					<ex_orig>比水：瓦旦，我準備好了糯米飯，醃肉、醃魚、地瓜、芋頭、龍葵、刺蔥、山茼萵、山胡椒</ex_orig>
+					<ex_tran>Pisuy: Watan, wayan ku snku sumul, tmmyan qsinuw, tmmyan qulih, sehuy, wasiq, tana, yahuw,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23665;&#37326;</k> <!-- 山野 -->
+			<def>
+				<deftext>hlahuy</deftext>
+				<ex>
+					<ex_orig>寒溪有山又有溪水</ex_orig>
+					<ex_tran>kyan hlahuy, kyan llyung uzi.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>山上是打獵的地方</ex_orig>
+					<ex_tran>hlahuy hiya ga ʼsan nha qmalup</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>來自山上的小孩，</ex_orig>
+					<ex_tran>laqi knahul beh rgyax,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>都非常喜歡唱歌。</ex_orig>
+					<ex_tran>smoya balay mqwas qwas kwara</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#23833;&#22500;</k> <!-- 崙埤 -->
+			<def>
+				<deftext>talah</deftext>
+				<ex>
+					<ex_orig>崙埤是鄉的行政中心</ex_orig>
+					<ex_tran>qalang talah ga knkyan na gokosyo;</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>紅色布匹，</ex_orig>
+					<ex_tran>pala mtalah hiya ga,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24037;&#20316;</k> <!-- 工作 -->
+			<def>
+							<def>
+				<deftext>mciyaw</deftext>
+			</def>			<def>
+				<deftext>pcyagun</deftext>
+				<ex>
+					<ex_orig>雅外：蘇倫，你爸爸從事什麼工作？</ex_orig>
+					<ex_tran>Yaway: Sulung, nanu cyux pcyagun na yaba su?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>蘇倫：雅外，那你爸爸做甚麼是呢？</ex_orig>
+					<ex_tran>Sulung: Yaway, nanu cyux pcyagun yaba su hiya?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mtiyaw</deftext>
+				<ex>
+					<ex_orig>那你爸爸在哪兒工作呢？</ex_orig>
+					<ex_tran>cyux mtiyaw inu yaba su hiya?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>認真工作就很好了。</ex_orig>
+					<ex_tran>si ki qniyat mtiyaw lga blaq la.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mtiyaw</deftext>
+				<ex>
+					<ex_orig>認真工作就很好了。</ex_orig>
+					<ex_tran>si ki qniyat mtiyaw lga blaq la.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>爸爸每天去工作</ex_orig>
+					<ex_tran>yaba mu ga musa mtiyaw kryax.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>囑咐我說：努力工作的，收獲將是自己的。</ex_orig>
+					<ex_tran>sinrhu saku nya maha: qniyat mtiyaw ga, kinlahan ga mwah isu nanak.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#24037;&#20855;</k> <!-- 工具 -->
+			<def>
+				<deftext>qqaya</deftext>
+				<ex>
+					<ex_orig>生活裡的工具</ex_orig>
+					<ex_tran>qqaya na tayal</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>祖母用織布機織衣。</ex_orig>
+					<ex_tran>knahul qqaya cinun tcinun qu yaki mu</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>凡是所有的美好事物，</ex_orig>
+					<ex_tran>kwara kinblaq qu qqaya,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24037;&#23534;</k> <!-- 工寮 -->
+			<def>
+				<deftext>tatak</deftext>
+				<ex>
+					<ex_orig>樂信：爸爸有一座工寮，</ex_orig>
+					<ex_tran>losing: cyux qutux tatak na yaba ta.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24050;&#30693;&#36947;</k> <!-- 已知道 -->
+			<def>
+				<deftext>baqun</deftext>
+				<ex>
+					<ex_orig>好吧！我知道了。</ex_orig>
+					<ex_tran>aw! baqun mu la.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>會做很多家事了。</ex_orig>
+					<ex_tran>piyux balay baqun maku ciyaw ywaw na ngasal.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24050;&#32147;</k> <!-- 已經 -->
+			<def>
+				<deftext>walis</deftext>
+				<ex>
+					<ex_orig>他的名字叫瓦歷斯。</ex_orig>
+					<ex_tran>lalu nya ga Walis.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24052;&#22763;</k> <!-- 巴士 -->
+			<def>
+				<deftext>basuʼ</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24052;&#26460;</k> <!-- 巴杜 -->
+			<def>
+				<deftext>batu</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24052;&#26705;</k> <!-- 巴桑 -->
+			<def>
+				<deftext>Pasang</deftext>
+				<ex>
+					<ex_orig>巴桑喜歡開玩笑，</ex_orig>
+					<ex_tran>Pasang ga smoya balay mgnaw,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>尤命：巴桑，我們大同鄉有哪些好玩的地方？</ex_orig>
+					<ex_tran>Yumin: Pasang, nanu blaq ʼsan mcisal qu rayrogoʼ hiya?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24109;&#36948;</k> <!-- 席達 -->
+			<def>
+				<deftext>sita</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24118;</k> <!-- 帶 -->
+			<def>
+				<deftext>rasaw</deftext>
+				<ex>
+					<ex_orig>我帶你去擦藥吧！</ex_orig>
+					<ex_tran>rasaw misu smom iyu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24118;&#20358;</k> <!-- 帶來 -->
+			<def>
+							<def>
+				<deftext>paras</deftext>
+				<ex>
+					<ex_orig>吉娃斯：我要帶小孩去台北玩。</ex_orig>
+					<ex_tran>Ciwas: paras saku cisan bnka laqi maku.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>aras</deftext>
+				<ex>
+					<ex_orig>他們帶領族人去尋找新的居住地。</ex_orig>
+					<ex_tran>pinaras naha hkani mgiqas na rhiyal qu Tayal.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>帶來美好的事，</ex_orig>
+					<ex_tran>aras balq na ywaw,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>帶來美好的事，</ex_orig>
+					<ex_tran>aras balq na ywaw,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的父母親曾帶我去南投，</ex_orig>
+					<ex_tran>yaba yaya maku naras saku nha cisal qalang Nantow,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的祖父曾經帶我到深山，</ex_orig>
+					<ex_tran>yutas mu ga,naras saku nya zzik na hlahuy,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#24171;&#24537;</k> <!-- 幫忙 -->
+			<def>
+							<def>
+				<deftext>rmaw</deftext>
+				<ex>
+					<ex_orig>會常常幫忙做家事</ex_orig>
+					<ex_tran>baq rmaw tiywaw ngasal kryax,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>而泰雅的子弟是聽話又肯幫忙做家事</ex_orig>
+					<ex_tran>laqiy tayal ga mung ke ru soya rmaw mtiywaw ngasal</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你去幫爸爸一下，</ex_orig>
+					<ex_tran>hali rmaw cikay yaba su ,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>rmaw</deftext>
+				<ex>
+					<ex_orig>會常常幫忙做家事</ex_orig>
+					<ex_tran>baq rmaw tiywaw ngasal kryax,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>而泰雅的子弟是聽話又肯幫忙做家事</ex_orig>
+					<ex_tran>laqiy tayal ga mung ke ru soya rmaw mtiywaw ngasal</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你去幫爸爸一下，</ex_orig>
+					<ex_tran>hali rmaw cikay yaba su ,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#24180;&#32769;</k> <!-- 年老 -->
+			<def>
+				<deftext>mbnkis</deftext>
+				<ex>
+					<ex_orig>媽媽：你長大了，我們也變老了！</ex_orig>
+					<ex_tran>yaya: nyu su hupa la, mbnkis sami uzi!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24180;&#40801;</k> <!-- 年齡 -->
+			<def>
+							<def>
+				<deftext>kaws</deftext>
+			</def>			<def>
+				<deftext>kawas</deftext>
+				<ex>
+					<ex_orig>他是誰？</ex_orig>
+					<ex_tran>ima hiya？</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的身體</ex_orig>
+					<ex_tran>hi maku</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的小腹不大</ex_orig>
+					<ex_tran>ini shopa nbwas mu.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>不論在何時</ex_orig>
+					<ex_tran>ana knwan ga,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#24188;&#23567;</k> <!-- 幼小 -->
+			<def>
+							<def>
+				<deftext>uyuk</deftext>
+				<ex>
+					<ex_orig>不是的，是小的。</ex_orig>
+					<ex_tran>ini ay, uyuk na.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>馬賴：那是小山豬。</ex_orig>
+					<ex_tran>Maray: uyuk biyoq qasa hiya.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mbhku</deftext>
+				<ex>
+					<ex_orig>八、不可獵殺懷孕或幼小的動物。</ex_orig>
+					<ex_tran>8.mkiʼan ru mbhku qu qqsinuw ga ini qlupiy.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#24188;&#31258;&#22290;</k> <!-- 幼稚園 -->
+			<def>
+				<deftext>yo cu yen</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24199;&#35703;</k> <!-- 庇護 -->
+			<def>
+				<deftext>kinlahang</deftext>
+				<ex>
+					<ex_orig>讓我們一起讚揚我們祖靈的庇護，</ex_orig>
+					<ex_tran>yaba ta kinlahang,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24291;&#22823;</k> <!-- 廣大 -->
+			<def>
+				<deftext>hgci</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24339;&#31661;</k> <!-- 弓箭 -->
+			<def>
+				<deftext>blenuq</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24341;&#36215;</k> <!-- 引起 -->
+			<def>
+				<deftext>tʼaring</deftext>
+				<ex>
+					<ex_orig>到了一、二歲之後，才開始學習媽媽的話</ex_orig>
+					<ex_tran>tehok qutux ru sazing kawas maku laga tʼaring saku tqbaq keʼna yaya</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>席達：好的，開始時先抽苧麻絲、</ex_orig>
+					<ex_tran>Sita：aw ! tʼaring ga, mkgiy kgiy ha,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24351;&#22969;</k> <!-- 弟妹 -->
+			<def>
+				<deftext>sswe</deftext>
+				<ex>
+					<ex_orig>黑色的衣服。</ex_orig>
+					<ex_tran>qalux na lukus.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>語音符號歌</ex_orig>
+					<ex_tran>qwas hngiyang biru keʼ na Tayal</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>第三課</ex_orig>
+					<ex_tran>te cyugal lpgan</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>山上是打獵的地方</ex_orig>
+					<ex_tran>hlahuy hiya ga ʼsan nha qmalup</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24471;</k> <!-- 得 -->
+			<def>
+				<deftext>kyapun</deftext>
+				<ex>
+					<ex_orig>你感冒了</ex_orig>
+					<ex_tran>cyux su kyapun mʼatuʼ la</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>雅素：喔！原來你得了感冒！</ex_orig>
+					<ex_tran>Yasu: ow! baq nyux su kyapun mʼatuʼ la!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24478;</k> <!-- 從 -->
+			<def>
+				<deftext>kahul</deftext>
+				<ex>
+					<ex_orig>是從祖靈所賜。</ex_orig>
+					<ex_tran>kahul bniq na Utux.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24489;&#33288;</k> <!-- 復興 -->
+			<def>
+				<deftext>sengan</deftext>
+				<ex>
+					<ex_orig>復興、牛鬥適合種李子</ex_orig>
+					<ex_tran>qalang sengan ga kaway pinnuhi naha,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24515;</k> <!-- 心 -->
+			<def>
+				<deftext>lungan</deftext>
+				<ex>
+					<ex_orig>將話語放在心中。</ex_orig>
+					<ex_tran>si inlungan qu keʼ ma</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們從小就心地非常善良、</ex_orig>
+					<ex_tran>aring ta laqi lga blaq balay lungan ta,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>絕不肆意濫殺動物值得我們學習。</ex_orig>
+					<ex_tran>ini naha hmciy skut qqsinux, baqun ta pslungan.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>若你真有心的話，</ex_orig>
+					<ex_tran>maki balay qu inlungan su ga,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>也帶著正直的靈感謝祖靈，</ex_orig>
+					<ex_tran>aras mshiyu lungan su uzi,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24515;&#22320;</k> <!-- 心地 -->
+			<def>
+				<deftext>lungan</deftext>
+				<ex>
+					<ex_orig>將話語放在心中。</ex_orig>
+					<ex_tran>si inlungan qu keʼ ma</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們從小就心地非常善良、</ex_orig>
+					<ex_tran>aring ta laqi lga blaq balay lungan ta,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>絕不肆意濫殺動物值得我們學習。</ex_orig>
+					<ex_tran>ini naha hmciy skut qqsinux, baqun ta pslungan.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>若你真有心的話，</ex_orig>
+					<ex_tran>maki balay qu inlungan su ga,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>也帶著正直的靈感謝祖靈，</ex_orig>
+					<ex_tran>aras mshiyu lungan su uzi,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24524;&#35569;</k> <!-- 忌諱 -->
+			<def>
+				<deftext>saniq</deftext>
+				<ex>
+					<ex_orig>泰雅族人的禁忌</ex_orig>
+					<ex_tran>gaga na saniq ita Tayal</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>在我們的習俗這些是"禁忌"</ex_orig>
+					<ex_tran>kahun gaga na ita tayal ga psaniq qani</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>狩獵的禁忌</ex_orig>
+					<ex_tran>psaniq qu gaga na qmalup</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>但是狩獵有它的禁忌。</ex_orig>
+					<ex_tran>ana ga maki nanak qu psaniq gaga na qmalup.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>也告訴我狩獵的禁忌。</ex_orig>
+					<ex_tran>kyalun saku nya psaniq qa gaga na qmalup.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24536;&#35352;</k> <!-- 忘記 -->
+			<def>
+				<deftext>yungi</deftext>
+				<ex>
+					<ex_orig>不要忘了祖先的教誨。</ex_orig>
+					<ex_tran>laxiy kyungi pincbaq na binkisan,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24555;&#19968;&#40670;</k> <!-- 快一點 -->
+			<def>
+				<deftext>nahay</deftext>
+				<ex>
+					<ex_orig>趕快上學去。</ex_orig>
+					<ex_tran>nahay usa mqwax.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>趕快穿你的衣服。</ex_orig>
+					<ex_tran>nahay plukus lukus su.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24590;&#40636;&#21862;</k> <!-- 怎麼啦 -->
+			<def>
+				<deftext>mswa</deftext>
+				<ex>
+					<ex_orig>你怎麼了？</ex_orig>
+					<ex_tran>cyux su mswa?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>到那裡做什麼？</ex_orig>
+					<ex_tran>musa su mswa kya?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24605;&#28304;&#21854;&#21475;</k> <!-- 思源啞口 -->
+			<def>
+				<deftext>quri Sqabu</deftext>
+				<ex>
+					<ex_orig>南山有思源啞口</ex_orig>
+					<ex_tran>Pyanan ga maki quri sqabuʼ、</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24605;&#32771;</k> <!-- 思考 -->
+			<def>
+				<deftext>mnlung</deftext>
+				<ex>
+					<ex_orig>漸漸開始會思考，</ex_orig>
+					<ex_tran>ngyut saku baq mnlung,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24819;</k> <!-- 想 -->
+			<def>
+							<def>
+				<deftext>mnglun</deftext>
+				<ex>
+					<ex_orig>我常自己想：「我要努力讀書</ex_orig>
+					<ex_tran>mnglung saku nanak:musa ku qniyat mqwas biru,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>不要胡思亂想，專心求學吧！</ex_orig>
+					<ex_tran>laxi mnglung nanu, qutux lungan mqwas biru !</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>nglung</deftext>
+				<ex>
+					<ex_orig>不要胡思亂想，專心求學吧！</ex_orig>
+					<ex_tran>laxi mnglung nanu, qutux lungan mqwas biru !</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#24863;&#24681;</k> <!-- 感恩 -->
+			<def>
+				<deftext>showay</deftext>
+				<ex>
+					<ex_orig>就當感謝祖靈。</ex_orig>
+					<ex_tran>showay utux kayal.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>帶著誠實的心感謝祖靈，</ex_orig>
+					<ex_tran>aras balay na ywaw,showay qu utux,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24863;&#35613;</k> <!-- 感謝 -->
+			<def>
+				<deftext>mhoway</deftext>
+				<ex>
+					<ex_orig>感謝我們祖先的靈，</ex_orig>
+					<ex_tran>mhoway balay utux bnkis ta,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#24950;&#20856;</k> <!-- 慶典 -->
+			<def>
+				<deftext>sinqasan</deftext>
+				<ex>
+					<ex_orig>家鄉的慶典</ex_orig>
+					<ex_tran>sinqasan ryax na qalang</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25074;&#32624;</k> <!-- 懲罰 -->
+			<def>
+				<deftext>smʼang</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25078;&#24816;</k> <!-- 懶惰 -->
+			<def>
+				<deftext>qilang</deftext>
+				<ex>
+					<ex_orig>也不懶惰。</ex_orig>
+					<ex_tran>ini ta qilang uzi.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25079;&#23381;</k> <!-- 懷孕 -->
+			<def>
+				<deftext>mkiʼan</deftext>
+				<ex>
+					<ex_orig>八、不可獵殺懷孕或幼小的動物。</ex_orig>
+					<ex_tran>8.mkiʼan ru mbhku qu qqsinuw ga ini qlupiy.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25104;&#38263;</k> <!-- 成長 -->
+			<def>
+				<deftext>mbhoyaw</deftext>
+				<ex>
+					<ex_orig>獻上自己的生命和作為，</ex_orig>
+					<ex_tran>pngsa qnxan su ru kwara tninun su,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25105;</k> <!-- 我 -->
+			<def>
+							<def>
+				<deftext>kuzing</deftext>
+				<ex>
+					<ex_orig>那你是從哪裡來呢？</ex_orig>
+					<ex_tran>kuzing hiya ga</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>saku</deftext>
+				<ex>
+					<ex_orig>我很好</ex_orig>
+					<ex_tran>lokah saku.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我也很好，</ex_orig>
+					<ex_tran>lokah saku uzi,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#25105;&#20497;&#30340;</k> <!-- 我們的 -->
+			<def>
+				<deftext>myan</deftext>
+				<ex>
+					<ex_orig>我們領取了許多的獎品，</ex_orig>
+					<ex_tran>piyux balay qnabu galun myan,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們不分開，天天在一起</ex_orig>
+					<ex_tran>ini sami sʼalax ru msqun myan krryax.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我和哥哥、妹妹每天一起去上學</ex_orig>
+					<ex_tran>knan ru qsuyan mu mlikuy, ru sswe mu kneril ga msqun myan musa mqwas biru krryax.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25105;&#30340;</k> <!-- 我的 -->
+			<def>
+							<def>
+				<deftext>maku</deftext>
+				<ex>
+					<ex_orig>我要把我的錢存起來。</ex_orig>
+					<ex_tran>skwan maku pila mu.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的朋友</ex_orig>
+					<ex_tran>rangi maku</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mu</deftext>
+				<ex>
+					<ex_orig>我叫瓦旦．尤勞。</ex_orig>
+					<ex_tran>Watan Yuraw lalu mu.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我叫莎韻．尤幹。</ex_orig>
+					<ex_tran>Sayun Yukan lalu mu.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#25152;&#26377;</k> <!-- 所有 -->
+			<def>
+				<deftext>kwara</deftext>
+				<ex>
+					<ex_orig>有那些人呢？</ex_orig>
+					<ex_tran>ima kwara pi?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>這些字韻</ex_orig>
+					<ex_tran>kwara biru qani ga</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25163;</k> <!-- 手 -->
+			<def>
+				<deftext>qba</deftext>
+				<ex>
+					<ex_orig>兩隻手，兩條腿</ex_orig>
+					<ex_tran>sazing qba, sazing kakay,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我有兩隻手。</ex_orig>
+					<ex_tran>sazing qba mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25171;&#29557;</k> <!-- 打獵 -->
+			<def>
+				<deftext>qmalup</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25171;&#39770;</k> <!-- 打魚 -->
+			<def>
+				<deftext>tquleh</deftext>
+				<ex>
+					<ex_orig>樂信：那麼我們就到河邊去抓魚吧！</ex_orig>
+					<ex_tran>losing: nanu yasa si ta usa tquleh llyung kya la.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25235;</k> <!-- 抓 -->
+			<def>
+				<deftext>kmiyap</deftext>
+				<ex>
+					<ex_orig>他的職責是抓壞人，</ex_orig>
+					<ex_tran>musa kmiyap yaqeh na squliq,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25289;&#32922;&#23376;</k> <!-- 拉肚子 -->
+			<def>
+				<deftext>spliq</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25458;&#32218;</k> <!-- 捲線 -->
+			<def>
+				<deftext>mcira</deftext>
+				<ex>
+					<ex_orig>捻線之後就捲線和理線了，</ex_orig>
+					<ex_tran>masuq mnuka lga,mcira ru mplos la,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25467;&#32218;</k> <!-- 捻線 -->
+			<def>
+				<deftext>mnuka</deftext>
+				<ex>
+					<ex_orig>濯洗之後再捻線。</ex_orig>
+					<ex_tran>hbqan ta ru mnuka ta la !</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>捻線之後就捲線和理線了，</ex_orig>
+					<ex_tran>masuq mnuka lga,mcira ru mplos la,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25654;&#20308;</k> <!-- 搶佔 -->
+			<def>
+				<deftext>qmol</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25720;&#21040;</k> <!-- 摸到 -->
+			<def>
+				<deftext>tmring</deftext>
+				<ex>
+					<ex_orig>我可以碰到了！</ex_orig>
+					<ex_tran>thyayan mu tmring la!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>一、男人不碰女人。</ex_orig>
+					<ex_tran>1. mlikuy ga ini hmut tmring kneril.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25773;&#31278;</k> <!-- 播種 -->
+			<def>
+				<deftext>tmubux</deftext>
+				<ex>
+					<ex_orig>種地瓜、播種小米</ex_orig>
+					<ex_tran>muhiy ngahi, tmubux lmyun,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們的長輩非常努力開墾、耕作、播種和收割，</ex_orig>
+					<ex_tran>bnkis ta ga lokah balay mnayang, mqumah, tmubux ru kmloh.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25802;&#27084;</k> <!-- 擊槌 -->
+			<def>
+				<deftext>tucing</deftext>
+				<ex>
+					<ex_orig>依拜：對呀！再以兩根木棒敲著四根木琴鍵(音階)。</ex_orig>
+					<ex_tran>Ipay: aw! sʼ agal sazing tucing tmucing hkuy na tcingan qhoniq.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25812;&#24962;</k> <!-- 擔憂 -->
+			<def>
+				<deftext>nkux</deftext>
+				<ex>
+					<ex_orig>讓我的兄長們不必為我擔憂。</ex_orig>
+					<ex_tran>nway ini nkux ywaw maku qa qsuyal maku naha.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25830;</k> <!-- 擦 -->
+			<def>
+				<deftext>smon</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25910;&#21106;</k> <!-- 收割 -->
+			<def>
+				<deftext>kmloh</deftext>
+				<ex>
+					<ex_orig>我們的長輩非常努力開墾、耕作、播種和收割，</ex_orig>
+					<ex_tran>bnkis ta ga lokah balay mnayang, mqumah, tmubux ru kmloh.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25945;&#23566;</k> <!-- 教導 -->
+			<def>
+				<deftext>pincbaqan</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25945;&#26371;</k> <!-- 教會 -->
+			<def>
+				<deftext>kyokay</deftext>
+				<ex>
+					<ex_orig>上教堂</ex_orig>
+					<ex_tran>hata Kyokay</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們到教會，</ex_orig>
+					<ex_tran>hata Kyokay</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25970;&#25171;</k> <!-- 敲打 -->
+			<def>
+				<deftext>tmucing</deftext>
+				<ex>
+					<ex_orig>依拜：對呀！再以兩根木棒敲著四根木琴鍵(音階)。</ex_orig>
+					<ex_tran>Ipay: aw! sʼ agal sazing tucing tmucing hkuy na tcingan qhoniq.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25970;&#25802;</k> <!-- 敲擊 -->
+			<def>
+				<deftext>tmucing</deftext>
+				<ex>
+					<ex_orig>領袖就會用呼喊或敲擊竹子的方式，</ex_orig>
+					<ex_tran>mrhuw ga hwaw mlawa ru tmucing rruma</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#25972;&#29702;&#36942;</k> <!-- 整理過 -->
+			<def>
+				<deftext>knwagan</deftext>
+				<ex>
+					<ex_orig>媽媽：啊呀！屋裡整理的真乾淨呀！</ex_orig>
+					<ex_tran>yaya: talagay! blaq knwagan su ngasal wax!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26039;&#23830;</k> <!-- 斷崖 -->
+			<def>
+				<deftext>sqoya</deftext>
+				<ex>
+					<ex_orig>尤尚：那裏靠近斷崖，不要去那邊，我們會摔下去囉！</ex_orig>
+					<ex_tran>yusan: sobeh sqoya hasa, laxiy usa kya, musa ta mturuy kya la.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26059;&#36681;</k> <!-- 旋轉 -->
+			<def>
+				<deftext>piray</deftext>
+				<ex>
+					<ex_orig>尤命：你將要開車去？</ex_orig>
+					<ex_tran>Yumin: piray su toruy?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26089;</k> <!-- 早 -->
+			<def>
+				<deftext>zboq</deftext>
+				<ex>
+					<ex_orig>一大清早，就出去工作。</ex_orig>
+					<ex_tran>zibuq sasal lga, musa mciywaw la.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26097;&#30000;</k> <!-- 旱田 -->
+			<def>
+				<deftext>qmayah</deftext>
+				<ex>
+					<ex_orig>少女們則必須學會所有的家務事、農事及織布和醃漬山肉。</ex_orig>
+					<ex_tran>kwara krakis, siga lmun qnbaq kwara ywaw na cinngasan, ywaw qmayah, ru ywaw tinun, ru tmami tmmyan qsinuw.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26126;&#20142;&#30340;</k> <!-- 明亮的 -->
+			<def>
+				<deftext>smyax</deftext>
+				<ex>
+					<ex_orig>我有一雙明亮的眼睛，</ex_orig>
+					<ex_tran>smyax balay qu sazing roziq mu,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26126;&#22825;</k> <!-- 明天 -->
+			<def>
+							<def>
+				<deftext>suxal</deftext>
+			</def>			<def>
+				<deftext>suxan</deftext>
+				<ex>
+					<ex_orig>明天一早我們上山打獵</ex_orig>
+					<ex_tran>Piling:mzibuq sasan suxan hata qmalup rgyax.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>瓦旦：比水，明天是過年了，將會有許多親朋好友到家</ex_orig>
+					<ex_tran>Watan: Pisuy, suxan ga smʼatu piyux lpyun ru gluw mwah cissal ngasal ta.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#26159;</k> <!-- 是 -->
+			<def>
+				<deftext>aw</deftext>
+				<ex>
+					<ex_orig>是的</ex_orig>
+					<ex_tran>aw.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>是的，我們今天在學校學唱泰雅的歌謠。</ex_orig>
+					<ex_tran>aw! ryax soni ga,wal sami tqbaq qwas na Tayal.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26159;&#21966;</k> <!-- 是嗎 -->
+			<def>
+				<deftext>han</deftext>
+				<ex>
+					<ex_orig>是嗎!你到學校唸書了嗎？</ex_orig>
+					<ex_tran>han! mnwah su mqwas biru lga?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26159;&#35504;</k> <!-- 是誰 -->
+			<def>
+				<deftext>ima</deftext>
+				<ex>
+					<ex_orig>你叫什麼名字?</ex_orig>
+					<ex_tran>ima lalu su?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你叫什麼名字?</ex_orig>
+					<ex_tran>ima lalu su?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26178;&#38291;</k> <!-- 時間 -->
+			<def>
+				<deftext>spung</deftext>
+				<ex>
+					<ex_orig>時間到了！</ex_orig>
+					<ex_tran>tehuk spung la!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>時間到了！我們上學去吧！</ex_orig>
+					<ex_tran>tehuk spung la! hata mqwas biru la!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26234;&#24935;</k> <!-- 智慧 -->
+			<def>
+				<deftext>cinbaqan</deftext>
+				<ex>
+					<ex_orig>這話語帶來智慧的學習，</ex_orig>
+					<ex_tran>keʼ qani ga pʼaras cinbaqan.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>不要忘了我們祖先留下的智慧呀！</ex_orig>
+					<ex_tran>laxiy ta zngi cinbaqan sinbilan na lqotas ta qani ki.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26360;</k> <!-- 書 -->
+			<def>
+				<deftext>biru</deftext>
+				<ex>
+					<ex_orig>比魯：好哇！</ex_orig>
+					<ex_tran>Piru: aw ga!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>比林：比魯，起來、起來！我們要出發了。</ex_orig>
+					<ex_tran>Piling: Piru tuliq la! tuliq la! hata la!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>比魯：噓！小聲一點，我看到一隻山羊。</ex_orig>
+					<ex_tran>Piru: syu! laxi syang! nyux mu ktan qutux mit.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>比魯：哇！真大隻。</ex_orig>
+					<ex_tran>Piru: talagay hopa balay.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>第十一課</ex_orig>
+					<ex_tran>te mpuw qutux lpgan</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26360;&#21253;</k> <!-- 書包 -->
+			<def>
+				<deftext>kabang</deftext>
+				<ex>
+					<ex_orig>我揹著書包</ex_orig>
+					<ex_tran>mpanga saku kabang</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26360;&#26412;</k> <!-- 書本 -->
+			<def>
+				<deftext>biru</deftext>
+				<ex>
+					<ex_orig>努力看書。</ex_orig>
+					<ex_tran>lokah mita biru.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的作業很多。</ex_orig>
+					<ex_tran>piyux balay biru mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26366;&#21435;</k> <!-- 曾去 -->
+			<def>
+				<deftext>mnwah</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26366;&#24118;</k> <!-- 曾帶 -->
+			<def>
+				<deftext>naras</deftext>
+				<ex>
+					<ex_orig>我的父母親曾帶我去南投，</ex_orig>
+					<ex_tran>yaba yaya maku naras saku nha cisal qalang Nantow,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的祖父曾經帶我到深山，</ex_orig>
+					<ex_tran>yutas mu ga,naras saku nya zzik na hlahuy,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26368;&#22909;&#30340;</k> <!-- 最好的 -->
+			<def>
+				<deftext>kinblaq</deftext>
+				<ex>
+					<ex_orig>凡是所有的美好事物，</ex_orig>
+					<ex_tran>kwara kinblaq qu qqaya,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26371;</k> <!-- 會 -->
+			<def>
+				<deftext>qbaq</deftext>
+				<ex>
+					<ex_orig>否則你功課會不好。</ex_orig>
+					<ex_tran>yat su qbaq biru la.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26377;</k> <!-- 有 -->
+			<def>
+				<deftext>cyux</deftext>
+				<ex>
+					<ex_orig>誰在你家</ex_orig>
+					<ex_tran>ima cyux ngasal su?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>好多人在我家。</ex_orig>
+					<ex_tran>piyux balay squliq cyux ngasal mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26379;&#21451;</k> <!-- 朋友 -->
+			<def>
+							<def>
+				<deftext>rangi</deftext>
+				<ex>
+					<ex_orig>我的朋友</ex_orig>
+					<ex_tran>rangi maku</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我有很多朋友。</ex_orig>
+					<ex_tran>piyux balay rangi maku.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>lpyung</deftext>
+				<ex>
+					<ex_orig>他是我朋友。</ex_orig>
+					<ex_tran>hiya ga lpyung mu,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>rangi</deftext>
+				<ex>
+					<ex_orig>我的朋友</ex_orig>
+					<ex_tran>rangi maku</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我有一個朋友</ex_orig>
+					<ex_tran>cyux qutux rangi maku,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我有很多朋友。</ex_orig>
+					<ex_tran>piyux balay rangi maku.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的朋友</ex_orig>
+					<ex_tran>rangi maku</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#26408;&#29748;</k> <!-- 木琴 -->
+			<def>
+				<deftext>tcingan qhoniq</deftext>
+				<ex>
+					<ex_orig>木琴的聲音</ex_orig>
+					<ex_tran>hngyang na tcingan qhoniq</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>依拜：這是泰雅木琴。</ex_orig>
+					<ex_tran>Ipay: qani ga tcingan qhoniq na tayal.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26441;&#26408;</k> <!-- 杉木 -->
+			<def>
+				<deftext>qhuniq parung</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26446;&#23376;</k> <!-- 李子 -->
+			<def>
+				<deftext>kaway</deftext>
+				<ex>
+					<ex_orig>我在種李子</ex_orig>
+					<ex_tran>nyux ku muya kaway</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你在種李子？</ex_orig>
+					<ex_tran>cyux su muya kaway?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26481;&#28595;</k> <!-- 東澳 -->
+			<def>
+				<deftext>Iyuʼ</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26481;&#35199;</k> <!-- 東西 -->
+			<def>
+				<deftext>qqaya</deftext>
+				<ex>
+					<ex_orig>生活裡的工具</ex_orig>
+					<ex_tran>qqaya na tayal</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>祖母用織布機織衣。</ex_orig>
+					<ex_tran>knahul qqaya cinun tcinun qu yaki mu</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>凡是所有的美好事物，</ex_orig>
+					<ex_tran>kwara kinblaq qu qqaya,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26494;&#32645;</k> <!-- 松羅 -->
+			<def>
+							<def>
+				<deftext>Syanoh</deftext>
+				<ex>
+					<ex_orig>我來自松囉。</ex_orig>
+					<ex_tran>kahul saku syanoh.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>syanoh</deftext>
+				<ex>
+					<ex_orig>我來自松囉。</ex_orig>
+					<ex_tran>kahul saku syanoh.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>syanuh</deftext>
+				<ex>
+					<ex_orig>松羅盛產茶葉</ex_orig>
+					<ex_tran>qalang syanuh ga piyux ocya pinnhyun.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#26494;&#40736;</k> <!-- 松鼠 -->
+			<def>
+				<deftext>bhut</deftext>
+				<ex>
+					<ex_orig>馬賴：那是松鼠！那是野兔！</ex_orig>
+					<ex_tran>Maray: qasa ga bhut! qasa ga pyongpyong!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26503;&#26487;</k> <!-- 枇杷 -->
+			<def>
+				<deftext>lipis</deftext>
+				<ex>
+					<ex_orig>我喜歡吃枇杷</ex_orig>
+					<ex_tran>smoya ku maniq lipis</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你在吃枇杷？</ex_orig>
+					<ex_tran>cyux su maniq lipis?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26550;&#35373;</k> <!-- 架設 -->
+			<def>
+				<deftext>mbhul</deftext>
+				<ex>
+					<ex_orig>他教我設陷阱和放鐵夾的方法，</ex_orig>
+					<ex_tran>cbaqan saku nya smi rusa ru mbhul ttuʼ,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26586;&#23376;</k> <!-- 柚子 -->
+			<def>
+				<deftext>yabung</deftext>
+				<ex>
+					<ex_orig>適於種植柚子和柳丁</ex_orig>
+					<ex_tran>baqun muya yabung ru yutak</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26611;&#19969;</k> <!-- 柳丁 -->
+			<def>
+				<deftext>yutak</deftext>
+				<ex>
+					<ex_orig>適於種植柚子和柳丁</ex_orig>
+					<ex_tran>baqun muya yabung ru yutak</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26691;&#23376;</k> <!-- 桃子 -->
+			<def>
+				<deftext>bukil</deftext>
+				<ex>
+					<ex_orig>桃子和香蕉。</ex_orig>
+					<ex_tran>bukil ru buquh.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26792;&#24917;&#20234;</k> <!-- 梨慕伊 -->
+			<def>
+				<deftext>rimuy</deftext>
+				<ex>
+					<ex_orig>聚集成群的女人們，</ex_orig>
+					<ex_tran>mrimuy su rimuy yan,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26862;&#26519;</k> <!-- 森林 -->
+			<def>
+				<deftext>qhuniq</deftext>
+				<ex>
+					<ex_orig>吹奏葉片</ex_orig>
+					<ex_tran>tlubuw biq abaw qhuniq</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>隨便一片樹葉</ex_orig>
+					<ex_tran>ana mhmut qu qutux abaw qhuniq ga,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>快快學習用樹葉吹奏吧！</ex_orig>
+					<ex_tran>helaw ta hazi tqbaq tlubuw biq abaw qhuniq ,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#26893;&#29289;</k> <!-- 植物 -->
+			<def>
+				<deftext>kʼman</deftext>
+				<ex>
+					<ex_orig>尤嘮：媽媽，那個藥草好嗎？</ex_orig>
+					<ex_tran>Yuraw：aya, blaq iyu kʼman qasa?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>要擦什麼樣的草藥？</ex_orig>
+					<ex_tran>soman ta iyu kʼman nanu?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>尤嘮：哇！你知道好多泰雅族的草藥！</ex_orig>
+					<ex_tran>Yuraw：talagay! piyux balay iyu kʼman na ita tayal ga nyux su baqun !</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>或者從花草的名稱來取名，</ex_orig>
+					<ex_tran>ini ga sʼagal nha lalu kʼman smi lalu,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27085;</k> <!-- 槍 -->
+			<def>
+				<deftext>patus</deftext>
+				<ex>
+					<ex_orig>背帶裡有泰雅刀和獵槍，</ex_orig>
+					<ex_tran>maki lalaw ru patus zzik tokan kya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27138;&#22120;</k> <!-- 樂器 -->
+			<def>
+				<deftext>ptlbugan</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27138;&#27700;</k> <!-- 樂水 -->
+			<def>
+				<deftext>banun</deftext>
+				<ex>
+					<ex_orig>樂水出產稻米</ex_orig>
+					<ex_tran>qalang banun ga pagay pinmahan nha;</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27193;&#26408;</k> <!-- 樹木 -->
+			<def>
+				<deftext>qhuniq</deftext>
+				<ex>
+					<ex_orig>吹奏葉片</ex_orig>
+					<ex_tran>tlubuw biq abaw qhuniq</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>隨便一片樹葉</ex_orig>
+					<ex_tran>ana mhmut qu qutux abaw qhuniq ga,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>快快學習用樹葉吹奏吧！</ex_orig>
+					<ex_tran>helaw ta hazi tqbaq tlubuw biq abaw qhuniq ,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27224;&#23376;</k> <!-- 橘子 -->
+			<def>
+				<deftext>yutak</deftext>
+				<ex>
+					<ex_orig>和橘子。</ex_orig>
+					<ex_tran>ru yutak uzi</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27491;&#30452;</k> <!-- 正直 -->
+			<def>
+							<def>
+				<deftext>mshiyu</deftext>
+				<ex>
+					<ex_orig>正直的泰雅子弟</ex_orig>
+					<ex_tran>mshiyu na laqi tayal</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>優幹是一位文靜又心地正直的人</ex_orig>
+					<ex_tran>Yukan hiya ga sʼsu ru mshiyu balay inlungan nya,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>優幹的父親說：優幹這個名字，就是正直好義的象徵</ex_orig>
+					<ex_tran>kmayal yaba na yukan mha, pinqesan lalu Yukun hiya ga sʼsu ru mshiyu,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>心地善良又正直</ex_orig>
+					<ex_tran>sʼsu ru mshiyu balay lungan nya,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>也帶著正直的靈感謝祖靈，</ex_orig>
+					<ex_tran>aras mshiyu lungan su uzi,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mshiyu</deftext>
+				<ex>
+					<ex_orig>也帶著正直的靈感謝祖靈，</ex_orig>
+					<ex_tran>aras mshiyu lungan su uzi,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#27604;&#27700;</k> <!-- 比水 -->
+			<def>
+				<deftext>pisuy</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27604;&#36093;</k> <!-- 比賽 -->
+			<def>
+				<deftext>pspung</deftext>
+				<ex>
+					<ex_orig>你參加哪一項比賽呢？</ex_orig>
+					<ex_tran>nanu quʼsan su pspung unrokay?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我參加的是跳遠比賽。</ex_orig>
+					<ex_tran>pspung saku stoput twahiq.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27700;</k> <!-- 水 -->
+			<def>
+							<def>
+				<deftext>qsya</deftext>
+				<ex>
+					<ex_orig>我要把我的錢存起來。</ex_orig>
+					<ex_tran>skwan maku pila mu.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>澳花和金岳瀑布</ex_orig>
+					<ex_tran>cicis qsya na Rgayung ru Ropwe、</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們一起打球和玩水</ex_orig>
+					<ex_tran>musa sami mzyuy mari ru mzyuy qsya uzi</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>qsya</deftext>
+				<ex>
+					<ex_orig>茂安水質佳</ex_orig>
+					<ex_tran>qalang lmwan ga mtasaw qsya nya,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#27713;&#28082;</k> <!-- 汁液 -->
+			<def>
+				<deftext>buq</deftext>
+				<ex>
+					<ex_orig>是用薯榔地汁液染成，</ex_orig>
+					<ex_tran>cinmasan naha qu buq na qmaci</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27827;&#27700;</k> <!-- 河水 -->
+			<def>
+				<deftext>lliyun</deftext>
+				<ex>
+					<ex_orig>樂信：那麼我們就到河邊去抓魚吧！</ex_orig>
+					<ex_tran>losing: nanu yasa si ta usa tquleh llyung kya la.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27827;&#27969;</k> <!-- 河流 -->
+			<def>
+							<def>
+				<deftext>llyung</deftext>
+				<ex>
+					<ex_orig>寒溪有山又有溪水</ex_orig>
+					<ex_tran>kyan hlahuy, kyan llyung uzi.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>夏天溪水是玩水抓魚的好地方</ex_orig>
+					<ex_tran>ʼbagan lga, llyung hiya ga ʼsan nha blaq mlngyaq, ru halan tqulih uzi.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>第十二課</ex_orig>
+					<ex_tran>te mpuw sazing lpgan</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>開始學習念書</ex_orig>
+					<ex_tran>taring saku mqwas biru.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>llyung</deftext>
+				<ex>
+					<ex_orig>樂信：那麼我們就到河邊去抓魚吧！</ex_orig>
+					<ex_tran>losing: nanu yasa si ta usa tquleh llyung kya la.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#27832;&#29038;</k> <!-- 沸煮 -->
+			<def>
+				<deftext>thkun</deftext>
+				<ex>
+					<ex_orig>再次清洗之後煮線...</ex_orig>
+					<ex_tran>hbqan lozi lga thkun wayay la !</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27838;&#26579;</k> <!-- 沾染 -->
+			<def>
+				<deftext>cinmasan</deftext>
+				<ex>
+					<ex_orig>是用薯榔地汁液染成，</ex_orig>
+					<ex_tran>cinmasan naha qu buq na qmaci</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27888;&#38597;</k> <!-- 泰雅 -->
+			<def>
+				<deftext>Tayal</deftext>
+				<ex>
+					<ex_orig>是的，我們今天在學校學唱泰雅的歌謠。</ex_orig>
+					<ex_tran>aw! ryax soni ga,wal sami tqbaq qwas na Tayal.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>語音符號歌</ex_orig>
+					<ex_tran>qwas hngiyang biru keʼ na Tayal</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27888;&#38597;&#32340;&#24067;</k> <!-- 泰雅織布 -->
+			<def>
+				<deftext>pala</deftext>
+				<ex>
+					<ex_orig>一面吹奏口簧琴一面雙腳交互單跳躍舞動</ex_orig>
+					<ex_tran>tlubuw ga pʼyugun naha mstoput kakay ru ppiyiy.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>尤尚：那裏靠近斷崖，不要去那邊，我們會摔下去囉！</ex_orig>
+					<ex_tran>yusan: sobeh sqoya hasa, laxiy usa kya, musa ta mturuy kya la.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>綁在竹竿上的繩子</ex_orig>
+					<ex_tran>nyux bhlan bih rruma kya qu gasil</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>到那裡做什麼？</ex_orig>
+					<ex_tran>musa su mswa kya?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27927;</k> <!-- 洗 -->
+			<def>
+							<def>
+				<deftext>pima</deftext>
+				<ex>
+					<ex_orig>趕快洗你的手。</ex_orig>
+					<ex_tran>nahay pima qba su.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>趕緊洗臉和穿衣服，</ex_orig>
+					<ex_tran>nhi pima rqyas ru plukus,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>qmwax</deftext>
+				<ex>
+					<ex_orig>小孩：媽媽，您教我洗米煮飯好嗎？</ex_orig>
+					<ex_tran>laqi: cbaqi saku qmwax bwax ru phapuy mami ma?</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#27927;&#28364;</k> <!-- 洗滌 -->
+			<def>
+							<def>
+				<deftext>hbqan</deftext>
+				<ex>
+					<ex_orig>濯洗之後再捻線。</ex_orig>
+					<ex_tran>hbqan ta ru mnuka ta la !</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>再次清洗之後煮線...</ex_orig>
+					<ex_tran>hbqan lozi lga thkun wayay la !</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>inqwaxan</deftext>
+				<ex>
+					<ex_orig>然後以木灰清洗定色。</ex_orig>
+					<ex_tran>babaw nya ga inqwaxan na ha qbuli.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#27927;&#28655;</k> <!-- 洗濯 -->
+			<def>
+				<deftext>hbqan</deftext>
+				<ex>
+					<ex_orig>濯洗之後再捻線。</ex_orig>
+					<ex_tran>hbqan ta ru mnuka ta la !</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>再次清洗之後煮線...</ex_orig>
+					<ex_tran>hbqan lozi lga thkun wayay la !</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27969;&#20659;</k> <!-- 流傳 -->
+			<def>
+				<deftext>sinbilan</deftext>
+				<ex>
+					<ex_orig>不要忘了我們祖先留下的智慧呀！</ex_orig>
+					<ex_tran>laxiy ta zngi cinbaqan sinbilan na lqotas ta qani ki.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>傾聽祖訓</ex_orig>
+					<ex_tran>pung sinbilan keʼ bnkis ta</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>這話語是留給我們的。</ex_orig>
+					<ex_tran>keʼ qani ga sinbilan ta nya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27969;&#22495;</k> <!-- 流域 -->
+			<def>
+				<deftext>llyung</deftext>
+				<ex>
+					<ex_orig>我來自南澳群流域，是泰雅人</ex_orig>
+					<ex_tran>kahul saku llyung klesan,squliq na Tayal ki.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>他們是來自於溪頭群流域，</ex_orig>
+					<ex_tran>naha ga kahul llyung mnibuw,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27969;&#26274;</k> <!-- 流暢 -->
+			<def>
+				<deftext>huyci</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#27969;&#40763;&#28053;</k> <!-- 流鼻涕 -->
+			<def>
+				<deftext>sngihi</deftext>
+				<ex>
+					<ex_orig>瓦旦：對呀！我又發燒又流鼻水。</ex_orig>
+					<ex_tran>Watan: aw wax! nyux mkilux tunux mu ru sngihi ku uzi.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#28165;&#26216;</k> <!-- 清晨 -->
+			<def>
+				<deftext>sasal</deftext>
+				<ex>
+					<ex_orig>一大清早，就出去工作。</ex_orig>
+					<ex_tran>zibuq sasal lga, musa mciywaw la.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#28271;</k> <!-- 湯 -->
+			<def>
+				<deftext>ayang</deftext>
+				<ex>
+					<ex_orig>今天的菜是魚、地瓜葉、龍葵湯和飛鼠。</ex_orig>
+					<ex_tran>qulih, ngnhi, ayang, wqsiq ru yapit ramat ta.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#28330;&#38957;&#32676;</k> <!-- 溪頭群 -->
+			<def>
+				<deftext>mnibuw</deftext>
+				<ex>
+					<ex_orig>他們是來自於溪頭群流域，</ex_orig>
+					<ex_tran>naha ga kahul llyung mnibuw,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#28331;&#27849;</k> <!-- 溫泉 -->
+			<def>
+				<deftext>ulay</deftext>
+				<ex>
+					<ex_orig>巴桑：梵梵有溫泉</ex_orig>
+					<ex_tran>Pasang: bongbong ga maki ulay nya</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>碧候的溫泉，也很好玩喔！</ex_orig>
+					<ex_tran>ulay na Pyahaw blaq balay pziʼun uzi wah!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#28369;&#33853;</k> <!-- 滑落 -->
+			<def>
+				<deftext>pturuy</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#28500;&#30333;&#30340;</k> <!-- 潔白的 -->
+			<def>
+				<deftext>plquy</deftext>
+				<ex>
+					<ex_orig>我的牙齒潔白。</ex_orig>
+					<ex_tran>plquyʼ gʼnux mu hiya,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#28595;&#33457;</k> <!-- 澳花 -->
+			<def>
+				<deftext>Rgayung</deftext>
+				<ex>
+					<ex_orig>澳花和金岳瀑布</ex_orig>
+					<ex_tran>cicis qsya na Rgayung ru Ropwe、</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#28779;&#36554;</k> <!-- 火車 -->
+			<def>
+				<deftext>kisyaʼ</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29031;&#39015;</k> <!-- 照顧 -->
+			<def>
+				<deftext>mlahang</deftext>
+				<ex>
+					<ex_orig>誰在照顧部落的家家戶戶，</ex_orig>
+					<ex_tran>ima nyux mlahang kwara ngasal qalang ta,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29038;</k> <!-- 煮 -->
+			<def>
+							<def>
+				<deftext>phapuy</deftext>
+				<ex>
+					<ex_orig>您飯煮好了嗎？</ex_orig>
+					<ex_tran>masuq su phapuy la?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>小孩：媽媽，您教我洗米煮飯好嗎？</ex_orig>
+					<ex_tran>laqi: cbaqi saku qmwax bwax ru phapuy mami ma?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>tmahuk</deftext>
+				<ex>
+					<ex_orig>也很會燒煮野菜。</ex_orig>
+					<ex_tran>baq balay tmahuk rramat uzi.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#29066;</k> <!-- 熊 -->
+			<def>
+				<deftext>ngarux</deftext>
+				<ex>
+					<ex_orig>巴尚：我喜歡山豬、飛鼠、臭鼬、熊、狐狸和山羊</ex_orig>
+					<ex_tran>pasang: siyun maku bzyok, yapit, piku, ngarux, qbux ru mit.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29240;&#29240;</k> <!-- 爸爸 -->
+			<def>
+				<deftext>yaba</deftext>
+				<ex>
+					<ex_orig>你爸爸是誰？</ex_orig>
+					<ex_tran>ima yaba su?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>有爸爸、媽媽、祖父、祖母、嬸嬸、叔叔和哥哥、妹妹。</ex_orig>
+					<ex_tran>yaba, yaya, yutas, yaki, yata, mama ru qsuyan likuy sswe kneril.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29273;&#40786;</k> <!-- 牙齒 -->
+			<def>
+				<deftext>gʼnux</deftext>
+				<ex>
+					<ex_orig>我的牙齒潔白。</ex_orig>
+					<ex_tran>plquyʼ gʼnux mu hiya,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>姊姊牙齒很痛。</ex_orig>
+					<ex_tran>mxan balay gʼnux qsuyan kneril.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29392;&#29432;</k> <!-- 狐狸 -->
+			<def>
+				<deftext>qbux</deftext>
+				<ex>
+					<ex_orig>巴尚：我喜歡山豬、飛鼠、臭鼬、熊、狐狸和山羊</ex_orig>
+					<ex_tran>pasang: siyun maku bzyok, yapit, piku, ngarux, qbux ru mit.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29399;</k> <!-- 狗 -->
+			<def>
+				<deftext>huzil</deftext>
+				<ex>
+					<ex_orig>我有一隻狗</ex_orig>
+					<ex_tran>cyux qutux huzil mu</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你家有狗嗎？</ex_orig>
+					<ex_tran>cyux huzil ngasal su?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29417;&#29557;</k> <!-- 狩獵 -->
+			<def>
+							<def>
+				<deftext>qmalup</deftext>
+				<ex>
+					<ex_orig>明天一早我們上山打獵</ex_orig>
+					<ex_tran>Piling:mzibuq sasan suxan hata qmalup rgyax.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>上山打獵</ex_orig>
+					<ex_tran>musa qmalup rgyax</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>qmalup</deftext>
+				<ex>
+					<ex_orig>上山打獵</ex_orig>
+					<ex_tran>musa qmalup rgyax</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>巴杜：我要去山上走走，到獵場去狩獵。</ex_orig>
+					<ex_tran>Batu：musa ku mhkangi rgyax,qmalup ska qyunam kya.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#29518;&#21697;</k> <!-- 獎品 -->
+			<def>
+				<deftext>qnabu</deftext>
+				<ex>
+					<ex_orig>我們領取了許多的獎品，</ex_orig>
+					<ex_tran>piyux balay qnabu galun myan,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29557;&#22580;</k> <!-- 獵場 -->
+			<def>
+				<deftext>qyunam</deftext>
+				<ex>
+					<ex_orig>巴杜：我要去山上走走，到獵場去狩獵。</ex_orig>
+					<ex_tran>Batu：musa ku mhkangi rgyax,qmalup ska qyunam kya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29557;&#29289;</k> <!-- 獵物 -->
+			<def>
+				<deftext>qsinuw</deftext>
+				<ex>
+					<ex_orig>是來自於我們的飲食習慣，我們常吃動物的內臟、蝦子、魚...等</ex_orig>
+					<ex_tran>kahul gaga na nniqan ta kwara, qaniq ta gyus qsinuw, kmolung, qulih...</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>山林有很多種的野生動物</ex_orig>
+					<ex_tran>hlahuy ga maki mllamu na qqsinuw,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>如此方能受祖靈地庇佑，並賞賜我們獵物。</ex_orig>
+					<ex_tran>nanu yasa musa ta nya glwanan lqotas ta, biqan ta nya qqsinuw.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>這樣就可以抓到動物了。</ex_orig>
+					<ex_tran>maha kya lga huyay mciriq qsinuw la!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>少女們則必須學會所有的家務事、農事及織布和醃漬山肉。</ex_orig>
+					<ex_tran>kwara krakis, siga lmun qnbaq kwara ywaw na cinngasan, ywaw qmayah, ru ywaw tinun, ru tmami tmmyan qsinuw.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29560;&#39006;</k> <!-- 獸類 -->
+			<def>
+				<deftext>qqsinux</deftext>
+				<ex>
+					<ex_orig>也有取之於動物，</ex_orig>
+					<ex_tran>maki sʼagal nha lalu qqsinux.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29563;&#19978;</k> <!-- 獻上 -->
+			<def>
+				<deftext>pngsa</deftext>
+				<ex>
+					<ex_orig>獻上自己的生命和作為，</ex_orig>
+					<ex_tran>pngsa qnxan su ru kwara tninun su,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29609;</k> <!-- 玩 -->
+			<def>
+							<def>
+				<deftext>cisal</deftext>
+				<ex>
+					<ex_orig>我們一起去玩兒好嗎？</ex_orig>
+					<ex_tran>hata cisal ma?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我要出去玩。</ex_orig>
+					<ex_tran>musa ku cisal.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mzuy</deftext>
+				<ex>
+					<ex_orig>我們去打球</ex_orig>
+					<ex_tran>hata mzuy mari</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們一起去打球吧！</ex_orig>
+					<ex_tran>hata mzuy mari pi!</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mcisal</deftext>
+				<ex>
+					<ex_orig>尤命：巴桑，我們大同鄉有哪些好玩的地方？</ex_orig>
+					<ex_tran>Yumin: Pasang, nanu blaq ʼsan mcisal qu rayrogoʼ hiya?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>pziʼ</deftext>
+				<ex>
+					<ex_orig>巴桑：尤命，南澳鄉呢？</ex_orig>
+					<ex_tran>Pasang: Yumin, nanu blaq pziʼun Nangogoʼ hiya pi?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>尤命：東澳海邊</ex_orig>
+					<ex_tran>Yumin: blaq pziʼun syaw bsilung iyuʼ</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mzyuy</deftext>
+				<ex>
+					<ex_orig>我們一起打球和玩水</ex_orig>
+					<ex_tran>musa sami mzyuy mari ru mzyuy qsya uzi</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>到山上玩</ex_orig>
+					<ex_tran>hata mzyuy rgyax</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#29609;&#20855;</k> <!-- 玩具 -->
+			<def>
+				<deftext>kaka</deftext>
+				<ex>
+					<ex_orig>我的錢不夠買玩具。</ex_orig>
+					<ex_tran>ini tnaq baziy kaka pila mu</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的玩具不多。</ex_orig>
+					<ex_tran>ini piyux kaka mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29699;</k> <!-- 球 -->
+			<def>
+							<def>
+				<deftext>mari</deftext>
+				<ex>
+					<ex_orig>我們去打球</ex_orig>
+					<ex_tran>hata mzuy mari</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們一起去打球吧！</ex_orig>
+					<ex_tran>hata mzuy mari pi!</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mari</deftext>
+				<ex>
+					<ex_orig>我們一起打球和玩水</ex_orig>
+					<ex_tran>musa sami mzyuy mari ru mzyuy qsya uzi</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>時間到了！我們去打球吧！</ex_orig>
+					<ex_tran>tehuk spung la! hata mzuy mari!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們去打球好嗎？</ex_orig>
+					<ex_tran>hata mzuy mari ma?</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#29702;&#32218;</k> <!-- 理線 -->
+			<def>
+				<deftext>plos</deftext>
+				<ex>
+					<ex_orig>捻線之後就捲線和理線了，</ex_orig>
+					<ex_tran>masuq mnuka lga,mcira ru mplos la,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29748;&#37749;</k> <!-- 琴鍵 -->
+			<def>
+				<deftext>hkuy</deftext>
+				<ex>
+					<ex_orig>哥哥：就用四根木頭做成琴鍵嗎？</ex_orig>
+					<ex_tran>qsuyan: nanak payat qhoniq galan hkuy nya lpi?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>依拜：對呀！再以兩根木棒敲著四根木琴鍵(音階)。</ex_orig>
+					<ex_tran>Ipay: aw! sʼ agal sazing tucing tmucing hkuy na tcingan qhoniq.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29926;&#26086;</k> <!-- 瓦旦 -->
+			<def>
+							<def>
+				<deftext>Watan</deftext>
+				<ex>
+					<ex_orig>我叫瓦旦．尤勞。</ex_orig>
+					<ex_tran>Watan Yuraw lalu mu.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>瓦旦，我八歲了。</ex_orig>
+					<ex_tran>Watan, spat kawas mu la.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>watan</deftext>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#29926;&#27511;&#26031;</k> <!-- 瓦歷斯 -->
+			<def>
+				<deftext>Walis</deftext>
+				<ex>
+					<ex_orig>他的名字叫瓦歷斯。</ex_orig>
+					<ex_tran>lalu nya ga Walis.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29983;&#21629;</k> <!-- 生命 -->
+			<def>
+							<def>
+				<deftext>insuna</deftext>
+				<ex>
+					<ex_orig>這話語帶來生命的傳承，</ex_orig>
+					<ex_tran>keʼ qani ga pʼaras insuna,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>tninun</deftext>
+				<ex>
+					<ex_orig>獻上自己的生命和作為，</ex_orig>
+					<ex_tran>pngsa qnxan su ru kwara tninun su,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#29983;&#27963;</k> <!-- 生活 -->
+			<def>
+							<def>
+				<deftext>inqyanux</deftext>
+				<ex>
+					<ex_orig>在我的家鄉生活感覺真好</ex_orig>
+					<ex_tran>innglung ku blaq inqyanux mu balay maki qalang maku,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們全家過著快樂的生活</ex_orig>
+					<ex_tran>mqas inqyanux qu cinngasal myan.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們的生活過得太好了</ex_orig>
+					<ex_tran>henas blaq balay inqyanux ta la</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>inqyanux</deftext>
+				<ex>
+					<ex_orig>在我的家鄉生活感覺真好</ex_orig>
+					<ex_tran>innglung ku blaq inqyanux mu balay maki qalang maku,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們全家過著快樂的生活</ex_orig>
+					<ex_tran>mqas inqyanux qu cinngasal myan.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們的生活過得太好了</ex_orig>
+					<ex_tran>henas blaq balay inqyanux ta la</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>將來的生活才有可能好起來」</ex_orig>
+					<ex_tran>babaw nya musa mblaq inqyanux ta la.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>qmyanuh</deftext>
+			</def>			<def>
+				<deftext>inqyanux</deftext>
+				<ex>
+					<ex_orig>將來的生活才有可能好起來」</ex_orig>
+					<ex_tran>babaw nya musa mblaq inqyanux ta la.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>好讓你們在現代社會裡獲得美好的生活。</ex_orig>
+					<ex_tran>teta simu magal mblaq na inqyanux misu, babaw nya.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>qnxan</deftext>
+				<ex>
+					<ex_orig>獻上自己的生命和作為，</ex_orig>
+					<ex_tran>pngsa qnxan su ru kwara tninun su,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#29983;&#29986;</k> <!-- 生產 -->
+			<def>
+				<deftext>pinlqyan</deftext>
+				<ex>
+					<ex_orig>優幹：媽！雅吉生小孩了？</ex_orig>
+					<ex_tran>Yukan: yaya! nyux pinlqyan Yagih la!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>媽媽：優幹！關於姊姊生小孩的事</ex_orig>
+					<ex_tran>yaya: Yukan! ywaw nqu pinlqyan qsuyan su qani ga,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29983;&#30149;</k> <!-- 生病 -->
+			<def>
+				<deftext>mubuʼ</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#29986;&#29983;</k> <!-- 產生 -->
+			<def>
+				<deftext>waha</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30007;</k> <!-- 男 -->
+			<def>
+							<def>
+				<deftext>likuy</deftext>
+				<ex>
+					<ex_orig>有爸爸、媽媽、祖父、祖母、嬸嬸、叔叔和哥哥、妹妹。</ex_orig>
+					<ex_tran>yaba, yaya, yutas, yaki, yata, mama ru qsuyan likuy sswe kneril.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>哥哥給我錢</ex_orig>
+					<ex_tran>biqan ku nya pila qsuyan mu likuy,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>likuy</deftext>
+				<ex>
+					<ex_orig>有爸爸、媽媽、祖父、祖母、嬸嬸、叔叔和哥哥、妹妹。</ex_orig>
+					<ex_tran>yaba, yaya, yutas, yaki, yata, mama ru qsuyan likuy sswe kneril.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>哥哥給我錢</ex_orig>
+					<ex_tran>biqan ku nya pila qsuyan mu likuy,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#30007;&#23376;&#32972;&#31811;</k> <!-- 男子背籃 -->
+			<def>
+				<deftext>tokan</deftext>
+				<ex>
+					<ex_orig>培夫以：爸爸，你背著背袋要去哪裡？</ex_orig>
+					<ex_tran>Behuy：aba,panga su tokan ga musa su inu</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你爸爸背的籃子很重。</ex_orig>
+					<ex_tran>usuw balay tokan pinnanga yaba su.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的祖父揹著背帶，</ex_orig>
+					<ex_tran>nyux panga tokan yutas maku.,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>背帶裡有泰雅刀和獵槍，</ex_orig>
+					<ex_tran>maki lalaw ru patus zzik tokan kya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30140;&#24796;</k> <!-- 疼惜 -->
+			<def>
+				<deftext>sgalu</deftext>
+				<ex>
+					<ex_orig>他們真的關心我。</ex_orig>
+					<ex_tran>sgalu ku nha balay.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30140;&#30171;</k> <!-- 疼痛 -->
+			<def>
+				<deftext>mxal</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30142;&#30149;</k> <!-- 疾病 -->
+			<def>
+				<deftext>innbu</deftext>
+				<ex>
+					<ex_orig>現在什麼疑難雜症都出現了</ex_orig>
+					<ex_tran>misu ga ana nanu na innbu, nyux mhtuw kwara la.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>仔細地想一想，之所以得到這些病症</ex_orig>
+					<ex_tran>blequn nglung balay ga swa magan kwara innbu qani ga</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>因此引起身上很多的疾病</ex_orig>
+					<ex_tran>nanu yasa, hi ta ga htux mllamu na innbu</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30171;</k> <!-- 痛 -->
+			<def>
+				<deftext>mxal</deftext>
+				<ex>
+					<ex_orig>唉唷！好痛哦！</ex_orig>
+					<ex_tran>agay! mxal balay.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你哪裡痛啊？</ex_orig>
+					<ex_tran>inu mxal su?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30171;&#39080;</k> <!-- 痛風 -->
+			<def>
+				<deftext>makuy</deftext>
+				<ex>
+					<ex_orig>我們的祖先沒有痛風、癌症、近視</ex_orig>
+					<ex_tran>bnkis ta raral ga ungat son maha nbu makuy puqu, gang, payat roziq</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30284;&#30151;</k> <!-- 癌症 -->
+			<def>
+				<deftext>gang</deftext>
+				<ex>
+					<ex_orig>我們的祖先沒有痛風、癌症、近視</ex_orig>
+					<ex_tran>bnkis ta raral ga ungat son maha nbu makuy puqu, gang, payat roziq</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30332;&#29138;</k> <!-- 發燒 -->
+			<def>
+				<deftext>mkilux</deftext>
+				<ex>
+					<ex_orig>瓦旦：對呀！我又發燒又流鼻水。</ex_orig>
+					<ex_tran>Watan: aw wax! nyux mkilux tunux mu ru sngihi ku uzi.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30452;&#25509;</k> <!-- 直接 -->
+			<def>
+				<deftext>si</deftext>
+				<ex>
+					<ex_orig>這話語是留給我們的。</ex_orig>
+					<ex_tran>keʼ qani ga sinbilan ta nya.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>也有取之於動物，</ex_orig>
+					<ex_tran>maki sʼagal nha lalu qqsinux.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我非常喜歡。</ex_orig>
+					<ex_tran>siyan maku balay.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>家鄉的慶典</ex_orig>
+					<ex_tran>sinqasan ryax na qalang</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>耆老們告誡我們說：孩子們！一定要遵守泰雅的傳統習俗，</ex_orig>
+					<ex_tran>singsu ta nya mrhuw ta mha llaqi si glgi balay gaga ta tayal,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30456;&#20114;&#21916;&#27489;</k> <!-- 相互喜歡 -->
+			<def>
+				<deftext>mqsliq</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30456;&#29255;</k> <!-- 相片 -->
+			<def>
+				<deftext>syasing</deftext>
+				<ex>
+					<ex_orig>那是我的相簿。</ex_orig>
+					<ex_tran>qasa ga syasing mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30460;&#26395;</k> <!-- 盼望 -->
+			<def>
+				<deftext>snonan</deftext>
+				<ex>
+					<ex_orig>這話語帶給我們期許，</ex_orig>
+					<ex_tran>keʼ qani ga pʼaras snonan.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30475;</k> <!-- 看 -->
+			<def>
+							<def>
+				<deftext>ktay</deftext>
+				<ex>
+					<ex_orig>碧水：你看，前面那一大片白白的花，</ex_orig>
+					<ex_tran>Pisuy: ktay, piyux balay plquy na phpah cyux te glen</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mita</deftext>
+				<ex>
+					<ex_orig>努力看書。</ex_orig>
+					<ex_tran>lokah mita biru.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你看完書了嗎？</ex_orig>
+					<ex_tran>wan su mita biru la?</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#30495;&#30340;</k> <!-- 真的 -->
+			<def>
+							<def>
+				<deftext>balay</deftext>
+				<ex>
+					<ex_orig>謝謝你!</ex_orig>
+					<ex_tran>mhuway su balay.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>好多人在我家。</ex_orig>
+					<ex_tran>piyux balay squliq cyux ngasal mu.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>balay</deftext>
+				<ex>
+					<ex_orig>若你真有心的話，</ex_orig>
+					<ex_tran>maki balay qu inlungan su ga,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>帶著誠實的心感謝祖靈，</ex_orig>
+					<ex_tran>aras balay na ywaw,showay qu utux,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#30524;&#30555;</k> <!-- 眼睛 -->
+			<def>
+							<def>
+				<deftext>roziq</deftext>
+				<ex>
+					<ex_orig>兩個耳朵，兩個眼睛</ex_orig>
+					<ex_tran>sazing papak, saing roziq,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我有兩個眼睛。</ex_orig>
+					<ex_tran>sazing roziq mu.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>roziq</deftext>
+				<ex>
+					<ex_orig>我有一雙明亮的眼睛，</ex_orig>
+					<ex_tran>smyax balay qu sazing roziq mu,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們的祖先沒有痛風、癌症、近視</ex_orig>
+					<ex_tran>bnkis ta raral ga ungat son maha nbu makuy puqu, gang, payat roziq</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>象徵著祖靈的眼睛，</ex_orig>
+					<ex_tran>sgiwan roziq na bnkis san naha.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#30526;&#22810;</k> <!-- 眾多 -->
+			<def>
+				<deftext>khmay</deftext>
+				<ex>
+					<ex_orig>當人口越來越多的時候，</ex_orig>
+					<ex_tran>trang khmay qu ssquliq lga,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>尤尚：那裏靠近斷崖，不要去那邊，我們會摔下去囉！</ex_orig>
+					<ex_tran>yusan: sobeh sqoya hasa, laxiy usa kya, musa ta mturuy kya la.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>若不遵從會被祖靈咒罵的！</ex_orig>
+					<ex_tran>ini glgiy ga pcyusan Utux ma!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30561;&#35258;</k> <!-- 睡覺 -->
+			<def>
+				<deftext>abi</deftext>
+				<ex>
+					<ex_orig>宿醉就在家裡睡</ex_orig>
+					<ex_tran>nanu sqwagan lga si abi ngasal</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30693;&#36947;</k> <!-- 知道 -->
+			<def>
+				<deftext>baqun</deftext>
+				<ex>
+					<ex_orig>好吧！我知道了。</ex_orig>
+					<ex_tran>aw! baqun mu la.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>會做很多家事了。</ex_orig>
+					<ex_tran>piyux balay baqun maku ciyaw ywaw na ngasal.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30707;&#22846;&#32769;&#40736;</k> <!-- 石夾老鼠 -->
+			<def>
+				<deftext>rangay</deftext>
+				<ex>
+					<ex_orig>如吊脖子陷阱、石板陷阱、吊腳陷阱等，</ex_orig>
+					<ex_tran>syan ta rusa, rangay, kakay lga,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30887;&#20505;</k> <!-- 碧候 -->
+			<def>
+				<deftext>Ropwe</deftext>
+				<ex>
+					<ex_orig>澳花和金岳瀑布</ex_orig>
+					<ex_tran>cicis qsya na Rgayung ru Ropwe、</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#30896;&#35320;</k> <!-- 碰觸 -->
+			<def>
+							<def>
+				<deftext>tringan</deftext>
+			</def>			<def>
+				<deftext>tmring</deftext>
+				<ex>
+					<ex_orig>一、男人不碰女人。</ex_orig>
+					<ex_tran>1. mlikuy ga ini hmut tmring kneril.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#31062;&#20808;</k> <!-- 祖先 -->
+			<def>
+				<deftext>kinbkisal</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#31062;&#38728;</k> <!-- 祖靈 -->
+			<def>
+				<deftext>Utux</deftext>
+				<ex>
+					<ex_orig>若不遵從會被祖靈咒罵的！</ex_orig>
+					<ex_tran>ini glgiy ga pcyusan Utux ma!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#31105;&#24524;</k> <!-- 禁忌 -->
+			<def>
+				<deftext>psaniq</deftext>
+				<ex>
+					<ex_orig>狩獵的禁忌</ex_orig>
+					<ex_tran>psaniq qu gaga na qmalup</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>但是狩獵有它的禁忌。</ex_orig>
+					<ex_tran>ana ga maki nanak qu psaniq gaga na qmalup.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>也告訴我狩獵的禁忌。</ex_orig>
+					<ex_tran>kyalun saku nya psaniq qa gaga na qmalup.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#31150;&#25308;</k> <!-- 禮拜 -->
+			<def>
+				<deftext>rehay</deftext>
+				<ex>
+					<ex_orig>去做禮拜了！</ex_orig>
+					<ex_tran>hata rehay la!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>快穿衣吧！我們作禮拜去！</ex_orig>
+					<ex_tran>nhi plukus la! hata rehay!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#31278;&#26893;</k> <!-- 種植 -->
+			<def>
+							<def>
+				<deftext>pmyon</deftext>
+			</def>			<def>
+				<deftext>muya</deftext>
+				<ex>
+					<ex_orig>我在種李子</ex_orig>
+					<ex_tran>nyux ku muya kaway</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你在種李子？</ex_orig>
+					<ex_tran>cyux su muya kaway?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>muhiy</deftext>
+				<ex>
+					<ex_orig>種地瓜、播種小米</ex_orig>
+					<ex_tran>muhiy ngahi, tmubux lmyun,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>也種植各類的蔬菜</ex_orig>
+					<ex_tran>ru muhiy mllamu na ramat uzi.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#31359;&#34915;</k> <!-- 穿衣 -->
+			<def>
+				<deftext>plukus</deftext>
+				<ex>
+					<ex_orig>趕快穿你的衣服。</ex_orig>
+					<ex_tran>nahay plukus lukus su.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>趕緊洗臉和穿衣服，</ex_orig>
+					<ex_tran>nhi pima rqyas ru plukus,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#31478;&#25216;</k> <!-- 競技 -->
+			<def>
+				<deftext>mtalam</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#31481;&#26690;</k> <!-- 竹桂 -->
+			<def>
+				<deftext>rema</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#31561;&#19968;&#19979;</k> <!-- 等一下 -->
+			<def>
+				<deftext>kira</deftext>
+				<ex>
+					<ex_orig>你今天要到哪裡？</ex_orig>
+					<ex_tran>musa su inu kira?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我帶一會兒看。</ex_orig>
+					<ex_tran>kita ku biru kira.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#31661;</k> <!-- 箭 -->
+			<def>
+				<deftext>slqiy</deftext>
+				<ex>
+					<ex_orig>我參加射箭比賽。</ex_orig>
+					<ex_tran>pspung ku smbuʼ slqiy kun hiya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#31811;&#23376;</k> <!-- 籃子 -->
+			<def>
+				<deftext>waya</deftext>
+				<ex>
+					<ex_orig>梨慕伊：他會打獵和藤編。</ex_orig>
+					<ex_tran>Rimuy: baq qmalup tu tminun waya qwayux hiya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#31859;</k> <!-- 米 -->
+			<def>
+				<deftext>bwax</deftext>
+				<ex>
+					<ex_orig>小孩：媽媽，您教我洗米煮飯好嗎？</ex_orig>
+					<ex_tran>laqi: cbaqi saku qmwax bwax ru phapuy mami ma?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#31983;&#31859;&#39151;</k> <!-- 糯米飯 -->
+			<def>
+				<deftext>sumul</deftext>
+				<ex>
+					<ex_orig>比水：瓦旦，我準備好了糯米飯，醃肉、醃魚、地瓜、芋頭、龍葵、刺蔥、山茼萵、山胡椒</ex_orig>
+					<ex_tran>Pisuy: Watan, wayan ku snku sumul, tmmyan qsinuw, tmmyan qulih, sehuy, wasiq, tana, yahuw,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>媽媽很會蒸糯米飯、</ex_orig>
+					<ex_tran>yaya mu ga,baq balay pskulu sumul,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32011;&#38754;</k> <!-- 紋面 -->
+			<def>
+				<deftext>matas</deftext>
+				<ex>
+					<ex_orig>紋面的習俗</ex_orig>
+					<ex_tran>gaga na matas</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>關於紋面之習俗，</ex_orig>
+					<ex_tran>ywaw na gaga matas qani,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>才能紋面，</ex_orig>
+					<ex_tran>musa baqun matas.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32047;</k> <!-- 累 -->
+			<def>
+							<def>
+				<deftext>moyay</deftext>
+				<ex>
+					<ex_orig>鐵木：泰雅的小孩怎麼可能累呢？</ex_orig>
+					<ex_tran>Temu：baha moyay laqi na tayal hiya la !</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>田裡的工作很多也很辛苦，身體很疲累。</ex_orig>
+					<ex_tran>piyux balay ywaw na pinmahan ru moyay uzi,kʼuwiy balay hi.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mʼwiy</deftext>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#32080;&#20276;</k> <!-- 結伴 -->
+			<def>
+				<deftext>mgluw</deftext>
+				<ex>
+					<ex_orig>快樂搭公車</ex_orig>
+					<ex_tran>pqasun maku mgluw basuʼ</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32102;</k> <!-- 給 -->
+			<def>
+				<deftext>biqan</deftext>
+				<ex>
+					<ex_orig>哥哥給我錢</ex_orig>
+					<ex_tran>biqan ku nya pila qsuyan mu likuy,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32232;&#32340;</k> <!-- 編織 -->
+			<def>
+							<def>
+				<deftext>tminun</deftext>
+				<ex>
+					<ex_orig>梨慕伊：他會打獵和藤編。</ex_orig>
+					<ex_tran>Rimuy: baq qmalup tu tminun waya qwayux hiya.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>比南：我們也來學打獵和編織好嗎？</ex_orig>
+					<ex_tran>Pinan: tqbaq tq qmalup ru tminun uzi ma?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>tminun</deftext>
+				<ex>
+					<ex_orig>我奶奶會織布</ex_orig>
+					<ex_tran>yaki mu ga baq tminun pala.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我爺爺會藤編</ex_orig>
+					<ex_tran>yutas mu ga baq tminun kiri.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>梨慕伊：他會打獵和藤編。</ex_orig>
+					<ex_tran>Rimuy: baq qmalup tu tminun waya qwayux hiya.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>也要傳承下去。</ex_orig>
+					<ex_tran>aki pinbuyan qu rnuruw mamu uzi.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#32361;&#32034;</k> <!-- 繩索 -->
+			<def>
+				<deftext>gasil</deftext>
+				<ex>
+					<ex_orig>綁在竹竿上的繩子</ex_orig>
+					<ex_tran>nyux bhlan bih rruma kya qu gasil</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32650;</k> <!-- 羊 -->
+			<def>
+				<deftext>mit</deftext>
+				<ex>
+					<ex_orig>巴尚：我喜歡山豬、飛鼠、臭鼬、熊、狐狸和山羊</ex_orig>
+					<ex_tran>pasang: siyun maku bzyok, yapit, piku, ngarux, qbux ru mit.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32654;&#40599;</k> <!-- 美麗 -->
+			<def>
+				<deftext>kinbetunux</deftext>
+				<ex>
+					<ex_orig>美麗的花</ex_orig>
+					<ex_tran>kinbetunux na phpah</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>真是漂亮</ex_orig>
+					<ex_tran>kinbetunux balay.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32722;&#20439;</k> <!-- 習俗 -->
+			<def>
+				<deftext>mgaga</deftext>
+				<ex>
+					<ex_orig>巴杜：我要去山上走走，到獵場去狩獵。</ex_orig>
+					<ex_tran>Batu：musa ku mhkangi rgyax,qmalup ska qyunam kya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32769;&#24107;</k> <!-- 老師 -->
+			<def>
+				<deftext>sinsi</deftext>
+				<ex>
+					<ex_orig>老師的聲音。</ex_orig>
+					<ex_tran>hngiyang na sinsi.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>老師是照顧孩子的。</ex_orig>
+					<ex_tran>sinsi ga mlahang ita laqi.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32771;&#24942;</k> <!-- 考慮 -->
+			<def>
+				<deftext>mnglun</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32789;&#20316;</k> <!-- 耕作 -->
+			<def>
+				<deftext>qmahun</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32819;&#26421;</k> <!-- 耳朵 -->
+			<def>
+				<deftext>papak</deftext>
+				<ex>
+					<ex_orig>兩個耳朵，兩個眼睛</ex_orig>
+					<ex_tran>sazing papak, saing roziq,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我有兩個耳朵。</ex_orig>
+					<ex_tran>sazing papak mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32858;&#38598;</k> <!-- 聚集 -->
+			<def>
+				<deftext>lahuy</deftext>
+				<ex>
+					<ex_orig>大家參與來聚集，</ex_orig>
+					<ex_tran>uwah ta mlahuy,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的祖父曾經帶我到深山，</ex_orig>
+					<ex_tran>yutas mu ga,naras saku nya zzik na hlahuy,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32882;&#35519;</k> <!-- 聲調 -->
+			<def>
+				<deftext>hngiyang</deftext>
+				<ex>
+					<ex_orig>語音符號歌</ex_orig>
+					<ex_tran>qwas hngiyang biru keʼ na Tayal</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>都是泰雅族語音語書寫系統，</ex_orig>
+					<ex_tran>hngiyang biru keʼna Tayal</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32882;&#38911;</k> <!-- 聲響 -->
+			<def>
+				<deftext>hngyang</deftext>
+				<ex>
+					<ex_orig>木琴的聲音</ex_orig>
+					<ex_tran>hngyang na tcingan qhoniq</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>哥哥：依拜！你敲木頭的聲音真好聽呀！</ex_orig>
+					<ex_tran>qsuyan: Ipay blaq balay pongan hngyang na qhoniq qani!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32893;</k> <!-- 聽 -->
+			<def>
+							<def>
+				<deftext>mung</deftext>
+				<ex>
+					<ex_orig>媽媽：是啊！你真聽話，</ex_orig>
+					<ex_tran>yaya: aw ru! mung su balay keʼ,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>pongan</deftext>
+				<ex>
+					<ex_orig>哥哥：依拜！你敲木頭的聲音真好聽呀！</ex_orig>
+					<ex_tran>qsuyan: Ipay blaq balay pongan hngyang na qhoniq qani!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>馬賴：瓦旦，聽說你家有許多動物，</ex_orig>
+					<ex_tran>Maray: Watan, pongan ga piyux balay qsinuw ngasal su?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>pongan</deftext>
+				<ex>
+					<ex_orig>再遠的地方也聽得到</ex_orig>
+					<ex_tran>ana twahiq ga musa pongan uzi.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>pung</deftext>
+				<ex>
+					<ex_orig>傾聽祖訓</ex_orig>
+					<ex_tran>pung sinbilan keʼ bnkis ta</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>傾聽我們的話語。</ex_orig>
+					<ex_tran>pung balay qu keʼ ma.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#32922;&#23376;</k> <!-- 肚子 -->
+			<def>
+							<def>
+				<deftext>ktu</deftext>
+				<ex>
+					<ex_orig>媽！我肚子餓死了。</ex_orig>
+					<ex_tran>aya! uyay balay ktu mu la.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>nbwas</deftext>
+				<ex>
+					<ex_orig>我的小腹不大</ex_orig>
+					<ex_tran>ini shopa nbwas mu.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#32922;&#33229;</k> <!-- 肚臍 -->
+			<def>
+				<deftext>puga</deftext>
+				<ex>
+					<ex_orig>我的肚臍乾淨</ex_orig>
+					<ex_tran>mtasaw puga mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32972;&#31757;</k> <!-- 背簍 -->
+			<def>
+				<deftext>kiri</deftext>
+				<ex>
+					<ex_orig>起來了！起來了！</ex_orig>
+					<ex_tran>tuliq la! tuliq la!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我爺爺會藤編</ex_orig>
+					<ex_tran>yutas mu ga baq tminun kiri.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#32972;&#33879;</k> <!-- 背著 -->
+			<def>
+							<def>
+				<deftext>mpanga</deftext>
+				<ex>
+					<ex_orig>我揹著書包</ex_orig>
+					<ex_tran>mpanga saku kabang</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>panga</deftext>
+				<ex>
+					<ex_orig>我揹著書包</ex_orig>
+					<ex_tran>mpanga saku kabang</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>培夫以：爸爸，你背著背袋要去哪裡？</ex_orig>
+					<ex_tran>Behuy：aba,panga su tokan ga musa su inu</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的祖父揹著背帶，</ex_orig>
+					<ex_tran>nyux panga tokan yutas maku.,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#32972;&#34955;</k> <!-- 背袋 -->
+			<def>
+				<deftext>tokan</deftext>
+				<ex>
+					<ex_orig>培夫以：爸爸，你背著背袋要去哪裡？</ex_orig>
+					<ex_tran>Behuy：aba,panga su tokan ga musa su inu</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你爸爸背的籃子很重。</ex_orig>
+					<ex_tran>usuw balay tokan pinnanga yaba su.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的祖父揹著背帶，</ex_orig>
+					<ex_tran>nyux panga tokan yutas maku.,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>背帶裡有泰雅刀和獵槍，</ex_orig>
+					<ex_tran>maki lalaw ru patus zzik tokan kya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33016;&#33179;</k> <!-- 胸膛 -->
+			<def>
+				<deftext>skutaw</deftext>
+				<ex>
+					<ex_orig>我的胸膛寬厚</ex_orig>
+					<ex_tran>khmay skutaw mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33021;&#22816;</k> <!-- 能夠 -->
+			<def>
+							<def>
+				<deftext>huyay</deftext>
+			</def>			<def>
+				<deftext>thuyay</deftext>
+				<ex>
+					<ex_orig>才能養育兒女，</ex_orig>
+					<ex_tran>thuyay su qmayat laqi su,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#33139;</k> <!-- 腳 -->
+			<def>
+				<deftext>kakay</deftext>
+				<ex>
+					<ex_orig>兩隻手，兩條腿</ex_orig>
+					<ex_tran>sazing qba, sazing kakay,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我有兩條腿。</ex_orig>
+					<ex_tran>sazing kakay mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33181;&#33995;</k> <!-- 膝蓋 -->
+			<def>
+				<deftext>tari</deftext>
+				<ex>
+					<ex_orig>我的膝蓋痛啊！</ex_orig>
+					<ex_tran>tari mu mxal balay.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33225;</k> <!-- 臉 -->
+			<def>
+				<deftext>rqyas</deftext>
+				<ex>
+					<ex_orig>趕緊洗臉和穿衣服，</ex_orig>
+					<ex_tran>nhi pima rqyas ru plukus,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33225;&#38960;</k> <!-- 臉頰 -->
+			<def>
+				<deftext>rqyas</deftext>
+				<ex>
+					<ex_orig>女人是紋在上額頭及雙頰上。</ex_orig>
+					<ex_tran>kenril ga ptasan lihuy ru rqyas.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33258;&#23478;</k> <!-- 自家 -->
+			<def>
+				<deftext>cinngasal</deftext>
+				<ex>
+					<ex_orig>我們家將要娶媳婦</ex_orig>
+					<ex_tran>pagal ina cinngasal ta</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們家將要接香火，為此事來慶祝。</ex_orig>
+					<ex_tran>pagal qbuli cinngasal ta pqasay ta ya ryax na soni.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們家正在冒黑煙，</ex_orig>
+					<ex_tran>sheloq cinngasal ta,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33261;&#40748;</k> <!-- 臭鼬 -->
+			<def>
+				<deftext>piku</deftext>
+				<ex>
+					<ex_orig>巴尚：我喜歡山豬、飛鼠、臭鼬、熊、狐狸和山羊</ex_orig>
+					<ex_tran>pasang: siyun maku bzyok, yapit, piku, ngarux, qbux ru mit.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33419;&#38957;</k> <!-- 芋頭 -->
+			<def>
+				<deftext>sehuy</deftext>
+				<ex>
+					<ex_orig>比水：瓦旦，我準備好了糯米飯，醃肉、醃魚、地瓜、芋頭、龍葵、刺蔥、山茼萵、山胡椒</ex_orig>
+					<ex_tran>Pisuy: Watan, wayan ku snku sumul, tmmyan qsinuw, tmmyan qulih, sehuy, wasiq, tana, yahuw,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33457;&#33609;</k> <!-- 花草 -->
+			<def>
+				<deftext>kʼman</deftext>
+				<ex>
+					<ex_orig>或者從花草的名稱來取名，</ex_orig>
+					<ex_tran>ini ga sʼagal nha lalu kʼman smi lalu,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33511;&#40635;</k> <!-- 苧麻 -->
+			<def>
+				<deftext>kgiy</deftext>
+				<ex>
+					<ex_orig>席達：好的，開始時先抽苧麻絲、</ex_orig>
+					<ex_tran>Sita：aw ! tʼaring ga, mkgiy kgiy ha,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33538;&#23433;</k> <!-- 茂安 -->
+			<def>
+				<deftext>lmwan</deftext>
+				<ex>
+					<ex_orig>茂安水質佳</ex_orig>
+					<ex_tran>qalang lmwan ga mtasaw qsya nya,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33609;</k> <!-- 草 -->
+			<def>
+				<deftext>qpayuk</deftext>
+				<ex>
+					<ex_orig>媽媽：那你快點去拿abaw qpayuk</ex_orig>
+					<ex_tran>yaya：nanu nhay hazi usa magal abaw qpayuk.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33678;&#38907;</k> <!-- 莎韻 -->
+			<def>
+				<deftext>Sayun</deftext>
+				<ex>
+					<ex_orig>我叫莎韻．尤幹。</ex_orig>
+					<ex_tran>Sayun Yukan lalu mu.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>莎韻，你幾歲了？</ex_orig>
+					<ex_tran>Sayun, pira kawas su la?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33736;&#23338;</k> <!-- 菈嬪 -->
+			<def>
+				<deftext>laping</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33756;</k> <!-- 菜 -->
+			<def>
+				<deftext>ramat</deftext>
+				<ex>
+					<ex_orig>今天的菜是魚、地瓜葉、龍葵湯和飛鼠。</ex_orig>
+					<ex_tran>qulih, ngnhi, ayang, wqsiq ru yapit ramat ta.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>那麼多菜呀！</ex_orig>
+					<ex_tran>talagay piyux ramat.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33865;</k> <!-- 葉 -->
+			<def>
+				<deftext>abaw</deftext>
+				<ex>
+					<ex_orig>媽媽：那你快點去拿abaw qpayuk</ex_orig>
+					<ex_tran>yaya：nanu nhay hazi usa magal abaw qpayuk.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>去拿「菸草」阿</ex_orig>
+					<ex_tran>musa magal abaw tbaku,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>媽媽：那個就要吃「芭樂的葉子」了。</ex_orig>
+					<ex_tran>yaya：qasa ga abaw para musa nya niqun la.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33865;&#29255;&#32882;</k> <!-- 葉片聲 -->
+			<def>
+				<deftext>biq</deftext>
+				<ex>
+					<ex_orig>吹奏葉片</ex_orig>
+					<ex_tran>tlubuw biq abaw qhuniq</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>哇賽！這位老先生吹奏的真好聽！</ex_orig>
+					<ex_tran>talagay! blaq balay pungan tlpungan biq qu bniks qani</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>快快學習用樹葉吹奏吧！</ex_orig>
+					<ex_tran>helaw ta hazi tqbaq tlubuw biq abaw qhuniq ,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>如此方能受祖靈地庇佑，並賞賜我們獵物。</ex_orig>
+					<ex_tran>nanu yasa musa ta nya glwanan lqotas ta, biqan ta nya qqsinuw.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#33976;</k> <!-- 蒸 -->
+			<def>
+				<deftext>pskulu</deftext>
+				<ex>
+					<ex_orig>媽媽很會蒸糯米飯、</ex_orig>
+					<ex_tran>yaya mu ga,baq balay pskulu sumul,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#34092;&#33756;</k> <!-- 蔬菜 -->
+			<def>
+				<deftext>ramat</deftext>
+				<ex>
+					<ex_orig>今天的菜是魚、地瓜葉、龍葵湯和飛鼠。</ex_orig>
+					<ex_tran>qulih, ngnhi, ayang, wqsiq ru yapit ramat ta.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>那麼多菜呀！</ex_orig>
+					<ex_tran>talagay piyux ramat.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#34223;&#27028;</k> <!-- 薯榔 -->
+			<def>
+				<deftext>qmaci</deftext>
+				<ex>
+					<ex_orig>是用薯榔地汁液染成，</ex_orig>
+					<ex_tran>cinmasan naha qu buq na qmaci</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#34276;</k> <!-- 藤 -->
+			<def>
+				<deftext>qwayux</deftext>
+				<ex>
+					<ex_orig>梨慕伊：他會打獵和藤編。</ex_orig>
+					<ex_tran>Rimuy: baq qmalup tu tminun waya qwayux hiya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#34277;</k> <!-- 藥 -->
+			<def>
+							<def>
+				<deftext>iyu</deftext>
+				<ex>
+					<ex_orig>我帶你去擦藥吧！</ex_orig>
+					<ex_tran>rasaw misu smom iyu.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>尤命：東澳海邊</ex_orig>
+					<ex_tran>Yumin: blaq pziʼun syaw bsilung iyuʼ</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>iyu</deftext>
+				<ex>
+					<ex_orig>田裡的工作很多也很辛苦，身體很疲累。</ex_orig>
+					<ex_tran>piyux balay ywaw na pinmahan ru moyay uzi,kʼuwiy balay hi.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>泰雅的藥物植物</ex_orig>
+					<ex_tran>iyu kʼman na Tayal</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>要擦什麼樣的草藥？</ex_orig>
+					<ex_tran>soman ta iyu kʼman nanu?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>媽媽：喔...你是說跌倒的藥阿！</ex_orig>
+					<ex_tran>yaya：han......isu kmayan mha iyu mtakuy ga,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>第六課</ex_orig>
+					<ex_tran>te tiyu lpgan</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#34310;&#33894;</k> <!-- 蘆葦 -->
+			<def>
+				<deftext>miquy</deftext>
+				<ex>
+					<ex_orig>碧水：那是蘆葦花。</ex_orig>
+					<ex_tran>Pisuy: phpah na miquy qasa hiya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#34662;</k> <!-- 蝦 -->
+			<def>
+				<deftext>kmolung</deftext>
+				<ex>
+					<ex_orig>是來自於我們的飲食習慣，我們常吃動物的內臟、蝦子、魚...等</ex_orig>
+					<ex_tran>kahul gaga na nniqan ta kwara, qaniq ta gyus qsinuw, kmolung, qulih...</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#34915;&#26381;</k> <!-- 衣服 -->
+			<def>
+				<deftext>lukus</deftext>
+				<ex>
+					<ex_orig>關於我們泰雅的服飾，</ex_orig>
+					<ex_tran>ywaw na lukus ita tayal hiya ga,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#34915;&#35282;</k> <!-- 衣角 -->
+			<def>
+				<deftext>hkuy</deftext>
+				<ex>
+					<ex_orig>泰雅衣飾菱形的紋路，</ex_orig>
+					<ex_tran>pintasan naha patas qu hkuy qani ga,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#34915;&#39166;</k> <!-- 衣飾 -->
+			<def>
+				<deftext>cinun</deftext>
+				<ex>
+					<ex_orig>泰雅的織布</ex_orig>
+					<ex_tran>cinun na tayal</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>席達：如果今天你能完成所有的事，並織好了布，</ex_orig>
+					<ex_tran>Sita：kyaqu ryax soni suqun su kwara ywaw ru masuq su cinun lga !</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>二、婦女們不能織布。</ex_orig>
+					<ex_tran>2. kneril uzi ga ini cinun.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>所有的泰雅婦女們必須習得織布的技術，</ex_orig>
+					<ex_tran>kwara kneril na Tayal ga aki mamu pnbaq gaga na cinun.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>祖母用織布機織衣。</ex_orig>
+					<ex_tran>knahul qqaya cinun tcinun qu yaki mu</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#35069;&#20316;</k> <!-- 製作 -->
+			<def>
+				<deftext>kbalay</deftext>
+				<ex>
+					<ex_orig>每一個家庭準備很多好吃的食物和酒。</ex_orig>
+					<ex_tran>qutux qutux ngasal ta lama kbalay blaq na nniqun ru qwaw.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>是祖父教我製作的，</ex_orig>
+					<ex_tran>pinsbaqan saku nya kbalay qu yutas maku.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#35201;&#20358;</k> <!-- 要來 -->
+			<def>
+				<deftext>uwah</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#35242;&#21451;</k> <!-- 親友 -->
+			<def>
+				<deftext>lpyun</deftext>
+				<ex>
+					<ex_orig>瓦旦：比水，明天是過年了，將會有許多親朋好友到家</ex_orig>
+					<ex_tran>Watan: Pisuy, suxan ga smʼatu piyux lpyun ru gluw mwah cissal ngasal ta.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>都以朋友優先考慮</ex_orig>
+					<ex_tran>lpyung ga syan nya sgleng mnglung,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#35242;&#25114;</k> <!-- 親戚 -->
+			<def>
+				<deftext>lpyung</deftext>
+				<ex>
+					<ex_orig>他是我朋友。</ex_orig>
+					<ex_tran>hiya ga lpyung mu,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#35342;&#35542;</k> <!-- 討論 -->
+			<def>
+				<deftext>mkayal</deftext>
+				<ex>
+					<ex_orig>寒溪雨水很豐沛</ex_orig>
+					<ex_tran>qalang stacis ga msyaw qwalax nya,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>到了六足歲</ex_orig>
+					<ex_tran>tehok tiyu kawas mu lga,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我揹著書包</ex_orig>
+					<ex_tran>mpanga saku kabang</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#35441;&#35486;</k> <!-- 話語 -->
+			<def>
+				<deftext>keʼ</deftext>
+				<ex>
+					<ex_orig>到了一、二歲之後，才開始學習媽媽的話</ex_orig>
+					<ex_tran>tehok qutux ru sazing kawas maku laga tʼaring saku tqbaq keʼna yaya</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>是有它的規矩的：弟弟是不可以隨便講話</ex_orig>
+					<ex_tran>maki gaga nya: ini hmci kmayal keʼ qu sswe mlikuy hiya ,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>傾聽祖訓</ex_orig>
+					<ex_tran>pung sinbilan keʼ bnkis ta</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>傾聽我們的話語。</ex_orig>
+					<ex_tran>pung balay qu keʼ ma.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>這話語是爸爸媽媽的話，</ex_orig>
+					<ex_tran>keʼ qani ga keʼ yaba yaya,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>是我們祖父的話。</ex_orig>
+					<ex_tran>keʼna yutas ta qani.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#35469;&#30495;</k> <!-- 認真 -->
+			<def>
+				<deftext>qniyat</deftext>
+				<ex>
+					<ex_orig>認真工作就很好了。</ex_orig>
+					<ex_tran>si ki qniyat mtiyaw lga blaq la.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#35498;&#35441;</k> <!-- 說話 -->
+			<def>
+				<deftext>kmayal</deftext>
+				<ex>
+					<ex_orig>是有它的規矩的：弟弟是不可以隨便講話</ex_orig>
+					<ex_tran>maki gaga nya: ini hmci kmayal keʼ qu sswe mlikuy hiya ,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#35498;&#35594;</k> <!-- 說謊 -->
+			<def>
+				<deftext>mbrus</deftext>
+				<ex>
+					<ex_orig>不說謊、</ex_orig>
+					<ex_tran>ini ta hmut mbrus,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#35504;</k> <!-- 誰 -->
+			<def>
+							<def>
+				<deftext>ima</deftext>
+				<ex>
+					<ex_orig>你叫什麼名字?</ex_orig>
+					<ex_tran>ima lalu su?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你叫什麼名字?</ex_orig>
+					<ex_tran>ima lalu su?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>ima</deftext>
+				<ex>
+					<ex_orig>你叫什麼名字?</ex_orig>
+					<ex_tran>ima lalu su?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你叫什麼名字?</ex_orig>
+					<ex_tran>ima lalu su?</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#35613;&#35613;</k> <!-- 謝謝 -->
+			<def>
+							<def>
+				<deftext>mhuway</deftext>
+				<ex>
+					<ex_orig>謝謝你!</ex_orig>
+					<ex_tran>mhuway su balay.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>謝謝你！</ex_orig>
+					<ex_tran>mhuway su.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mhuway</deftext>
+				<ex>
+					<ex_orig>謝謝你!</ex_orig>
+					<ex_tran>mhuway su balay.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>謝謝你！</ex_orig>
+					<ex_tran>mhuway su.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#35686;&#23519;</k> <!-- 警察 -->
+			<def>
+				<deftext>kshat</deftext>
+				<ex>
+					<ex_orig>我的父親的工作是警察，</ex_orig>
+					<ex_tran>yaba mu ga sahat cyux nya cyagun</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>警察是照顧我們人們。</ex_orig>
+					<ex_tran>ksahat ga mlahang ita ssquliq.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#35712;</k> <!-- 讀 -->
+			<def>
+				<deftext>mqwas</deftext>
+				<ex>
+					<ex_orig>進入「幼稚園」就學</ex_orig>
+					<ex_tran>musa saku mqwas yocuyen</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>開始學習念書</ex_orig>
+					<ex_tran>taring saku mqwas biru.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>來到國民小學求學</ex_orig>
+					<ex_tran>musa ku mqwas biru kokumin gako la.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>在國民小學念書之後</ex_orig>
+					<ex_tran>babuw nya mqwas saku kokumin gako lga,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我常自己想：「我要努力讀書</ex_orig>
+					<ex_tran>mnglung saku nanak:musa ku qniyat mqwas biru,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>鐵木，你自己努力求學吧，別像我們，</ex_orig>
+					<ex_tran>Temu, qniyat mqwas biru isu nanak, laxi iyal sami.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>不要胡思亂想，專心求學吧！</ex_orig>
+					<ex_tran>laxi mnglung nanu, qutux lungan mqwas biru !</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>一路上看到他們在一起唱歌跳舞。</ex_orig>
+					<ex_tran>cka tuqi kya ga ktan myan nyux msqun myugi ru mqwas naha.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#35712;&#26360;</k> <!-- 讀書 -->
+			<def>
+				<deftext>mqwas</deftext>
+				<ex>
+					<ex_orig>努力讀書。</ex_orig>
+					<ex_tran>lokah mqwas.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我會唱歌</ex_orig>
+					<ex_tran>baq ku mqwas</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#35738;&#25562;</k> <!-- 讚揚 -->
+			<def>
+				<deftext>strahuw</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#35920;&#27803;</k> <!-- 豐沛 -->
+			<def>
+				<deftext>msyaw</deftext>
+				<ex>
+					<ex_orig>寒溪雨水很豐沛</ex_orig>
+					<ex_tran>qalang stacis ga msyaw qwalax nya,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36010;&#24515;</k> <!-- 貪心 -->
+			<def>
+				<deftext>sʼari</deftext>
+				<ex>
+					<ex_orig>五、不貪念。</ex_orig>
+					<ex_tran>5. ini sʼari.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36012;&#20633;</k> <!-- 責備 -->
+			<def>
+				<deftext>sʼangun</deftext>
+				<ex>
+					<ex_orig>老師會責備我們了！</ex_orig>
+					<ex_tran>sʼangun ta nya sinsi la!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36023;</k> <!-- 買 -->
+			<def>
+				<deftext>baziy</deftext>
+				<ex>
+					<ex_orig>我的錢不夠買玩具。</ex_orig>
+					<ex_tran>ini tnaq baziy kaka pila mu</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36051;&#26031;&#21338;&#24178;</k> <!-- 賓斯博干 -->
+			<def>
+				<deftext>Pinsbkan</deftext>
+				<ex>
+					<ex_orig>我們泰雅族人是源自賓斯博干，</ex_orig>
+					<ex_tran>ita Tayal hiya ga,minkahul ta Pinsbkan,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36060;&#20104;</k> <!-- 賜予 -->
+			<def>
+				<deftext>bniq</deftext>
+				<ex>
+					<ex_orig>是從祖靈所賜。</ex_orig>
+					<ex_tran>kahul bniq na Utux.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36093;&#36305;</k> <!-- 賽跑 -->
+			<def>
+				<deftext>mqenah</deftext>
+				<ex>
+					<ex_orig>所以我很會跳耀及跑步</ex_orig>
+					<ex_tran>nanu yasa ga lokah ku balay stopaw ru mqenah.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們賽跑又跳舞。</ex_orig>
+					<ex_tran>mqenah sami ru myugi sami uzi,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們的爸爸、媽媽、祖父、祖母和兄弟姊妹也都來參與競賽，</ex_orig>
+					<ex_tran>kwara yaya, yaby, yutas, yaki ru qsuyan sswe mqenah uzi,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36208;</k> <!-- 走 -->
+			<def>
+				<deftext>hata</deftext>
+				<ex>
+					<ex_orig>不要太愛看書。</ex_orig>
+					<ex_tran>laxiy lokah iyal mita biru.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>和橘子。</ex_orig>
+					<ex_tran>ru yutak uzi</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我有很多朋友。</ex_orig>
+					<ex_tran>piyux balay rangi maku.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36208;&#36208;</k> <!-- 走走 -->
+			<def>
+				<deftext>mhkangi</deftext>
+				<ex>
+					<ex_orig>巴杜：我要去山上走走，到獵場去狩獵。</ex_orig>
+					<ex_tran>Batu：musa ku mhkangi rgyax,qmalup ska qyunam kya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36215;&#20358;</k> <!-- 起來 -->
+			<def>
+				<deftext>tuliq</deftext>
+				<ex>
+					<ex_orig>起來了！起來了！</ex_orig>
+					<ex_tran>tuliq la! tuliq la!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36300;&#20498;</k> <!-- 跌倒 -->
+			<def>
+							<def>
+				<deftext>takuy</deftext>
+				<ex>
+					<ex_orig>我跌倒了</ex_orig>
+					<ex_tran>nyux ku takuy la.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我跌倒了！</ex_orig>
+					<ex_tran>nyux ku takuy la.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mttakuy</deftext>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#36339;&#33310;</k> <!-- 跳舞 -->
+			<def>
+				<deftext>myugi</deftext>
+				<ex>
+					<ex_orig>認真跳舞。</ex_orig>
+					<ex_tran>lokah myugi.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我跳完舞了。</ex_orig>
+					<ex_tran>masuq saku myugi la.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36339;&#36493;</k> <!-- 跳躍 -->
+			<def>
+				<deftext>stopaw</deftext>
+				<ex>
+					<ex_orig>跳呀！跳呀！跳呀！</ex_orig>
+					<ex_tran>stopaw! stopaw! stopaw!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>所以我很會跳耀及跑步</ex_orig>
+					<ex_tran>nanu yasa ga lokah ku balay stopaw ru mqenah.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>女人要做很多的事，</ex_orig>
+					<ex_tran>piyux balay ywaw pcywagun kneril hiya,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36339;&#36960;</k> <!-- 跳遠 -->
+			<def>
+				<deftext>stoput twahiq</deftext>
+				<ex>
+					<ex_orig>我參加的是跳遠比賽。</ex_orig>
+					<ex_tran>pspung saku stoput twahiq.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36523;&#39636;</k> <!-- 身體 -->
+			<def>
+							<def>
+				<deftext>hi</deftext>
+				<ex>
+					<ex_orig>一個(我的)身體</ex_orig>
+					<ex_tran>qutux hi mu,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>一個(我的)身體</ex_orig>
+					<ex_tran>qutux hi mu,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>hi</deftext>
+				<ex>
+					<ex_orig>一個(我的)身體</ex_orig>
+					<ex_tran>qutux hi mu,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>一個(我的)身體</ex_orig>
+					<ex_tran>qutux hi mu,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>hi</deftext>
+				<ex>
+					<ex_orig>因此引起身上很多的疾病</ex_orig>
+					<ex_tran>nanu yasa, hi ta ga htux mllamu na innbu</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#36554;</k> <!-- 車 -->
+			<def>
+				<deftext>toruy</deftext>
+				<ex>
+					<ex_orig>尤命：你將要開車去？</ex_orig>
+					<ex_tran>Yumin: piray su toruy?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36629;&#39686;</k> <!-- 輕鬆 -->
+			<def>
+				<deftext>lhbaw</deftext>
+				<ex>
+					<ex_orig>以後我的工作可以輕鬆一些了。</ex_orig>
+					<ex_tran>musa lhbaw hazi ciyawgun mu la.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36763;&#33510;</k> <!-- 辛苦 -->
+			<def>
+				<deftext>mʼuyayy</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36887;&#36259;</k> <!-- 逗趣 -->
+			<def>
+				<deftext>ssyaqan</deftext>
+				<ex>
+					<ex_orig>我們都覺得非常的逗趣又快樂！</ex_orig>
+					<ex_tran>ssyaqan balay ru mqas sami balay.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>非常的愉快</ex_orig>
+					<ex_tran>blaq ssyaqan balay</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36889;&#20491;</k> <!-- 這個 -->
+			<def>
+							<def>
+				<deftext>qani</deftext>
+				<ex>
+					<ex_orig>這些字韻</ex_orig>
+					<ex_tran>kwara biru qani ga</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>哥哥：依拜！你敲木頭的聲音真好聽呀！</ex_orig>
+					<ex_tran>qsuyan: Ipay blaq balay pongan hngyang na qhoniq qani!</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>qani</deftext>
+				<ex>
+					<ex_orig>這話語是爸爸媽媽的話，</ex_orig>
+					<ex_tran>keʼ qani ga keʼ yaba yaya,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>是我們祖父的話。</ex_orig>
+					<ex_tran>keʼna yutas ta qani.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>這話語是祖母的話，</ex_orig>
+					<ex_tran>keʼ qani ga keʼ yaki ta,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>這話語帶來生命的傳承，</ex_orig>
+					<ex_tran>keʼ qani ga pʼaras insuna,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>這話語帶來智慧的學習，</ex_orig>
+					<ex_tran>keʼ qani ga pʼaras cinbaqan.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>這話語帶給我們期許，</ex_orig>
+					<ex_tran>keʼ qani ga pʼaras snonan.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>qaniy</deftext>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#36899;&#25509;</k> <!-- 連接 -->
+			<def>
+				<deftext>mʼubuy</deftext>
+				<ex>
+					<ex_orig>鐵木，你自己努力求學吧，別像我們，</ex_orig>
+					<ex_tran>Temu, qniyat mqwas biru isu nanak, laxi iyal sami.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>姊姊牙齒很痛。</ex_orig>
+					<ex_tran>mxan balay gʼnux qsuyan kneril.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>泰雅孩子的命名是採取「父子連名」，</ex_orig>
+					<ex_tran>mʼubuy lalu yaba qu smi lalu laqi tayal hiya,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36914;&#20837;</k> <!-- 進入 -->
+			<def>
+				<deftext>miyup</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36939;&#21205;&#26371;</k> <!-- 運動會 -->
+			<def>
+							<def>
+				<deftext>unrokay</deftext>
+				<ex>
+					<ex_orig>運動會</ex_orig>
+					<ex_tran>unrokay</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>宜灣！明天就是運動會了，</ex_orig>
+					<ex_tran>Iwan! unrokay suxan la,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>unrokay</deftext>
+				<ex>
+					<ex_orig>巴杜：我要去山上走走，到獵場去狩獵。</ex_orig>
+					<ex_tran>Batu：musa ku mhkangi rgyax,qmalup ska qyunam kya.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>培夫以：是的，我要常去山上走一走，</ex_orig>
+					<ex_tran>Behuy：aw ! musa saku hkangi rgyax krryax,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#36942;&#24180;</k> <!-- 過年 -->
+			<def>
+				<deftext>smʼatu</deftext>
+				<ex>
+					<ex_orig>瓦旦：比水，明天是過年了，將會有許多親朋好友到家</ex_orig>
+					<ex_tran>Watan: Pisuy, suxan ga smʼatu piyux lpyun ru gluw mwah cissal ngasal ta.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36947;&#36335;</k> <!-- 道路 -->
+			<def>
+				<deftext>tuqiy</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36978;&#21040;</k> <!-- 遲到 -->
+			<def>
+				<deftext>qsuqi</deftext>
+				<ex>
+					<ex_orig>我們要遲到了</ex_orig>
+					<ex_tran>qsuqi ta la?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們快遲到了，</ex_orig>
+					<ex_tran>qsuqi ta la!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36986;&#24536;</k> <!-- 遺忘 -->
+			<def>
+				<deftext>zngi</deftext>
+				<ex>
+					<ex_orig>不要忘了我們祖先留下的智慧呀！</ex_orig>
+					<ex_tran>laxiy ta zngi cinbaqan sinbilan na lqotas ta qani ki.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36986;&#30041;</k> <!-- 遺留 -->
+			<def>
+				<deftext>sinbilan</deftext>
+				<ex>
+					<ex_orig>不要忘了我們祖先留下的智慧呀！</ex_orig>
+					<ex_tran>laxiy ta zngi cinbaqan sinbilan na lqotas ta qani ki.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>傾聽祖訓</ex_orig>
+					<ex_tran>pung sinbilan keʼ bnkis ta</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>這話語是留給我們的。</ex_orig>
+					<ex_tran>keʼ qani ga sinbilan ta nya.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#36996;&#27794;</k> <!-- 還沒 -->
+			<def>
+				<deftext>ini</deftext>
+				<ex>
+					<ex_orig>不是的，是小的。</ex_orig>
+					<ex_tran>ini ay, uyuk na.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>是白的還是黑的？</ex_orig>
+					<ex_tran>plquy ini ga qalux huzil su?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#37027;&#26159;</k> <!-- 那是 -->
+			<def>
+				<deftext>qasa</deftext>
+				<ex>
+					<ex_orig>那是什麼？</ex_orig>
+					<ex_tran>nanu qasa?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>那是什麼？</ex_orig>
+					<ex_tran>nanu qasa?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#37096;&#33853;</k> <!-- 部落 -->
+			<def>
+				<deftext>qalang</deftext>
+				<ex>
+					<ex_orig>我們到松羅玩好嗎？</ex_orig>
+					<ex_tran>hata mcisal qalang Syanuh ma?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們到崙埤玩好嗎？</ex_orig>
+					<ex_tran>hata mcisal qalang Talah ma?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#37096;&#33853;&#711;</k> <!-- 部落ˇ -->
+			<def>
+				<deftext>qalang</deftext>
+				<ex>
+					<ex_orig>好多的人來到我們的部落，</ex_orig>
+					<ex_tran>khmay balay na squliq muwah qalang myan,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我來自於寒溪部落。</ex_orig>
+					<ex_tran>kahul saku, qalang Syanuh</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的家鄉真好玩</ex_orig>
+					<ex_tran>blaq balay pziʼ un qalang maku</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#37129;&#20844;&#25152;</k> <!-- 鄉公所 -->
+			<def>
+				<deftext>gokosyo</deftext>
+				<ex>
+					<ex_orig>崙埤是鄉的行政中心</ex_orig>
+					<ex_tran>qalang talah ga knkyan na gokosyo;</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#37202;</k> <!-- 酒 -->
+			<def>
+				<deftext>qwaw</deftext>
+				<ex>
+					<ex_orig>每一個家庭準備很多好吃的食物和酒。</ex_orig>
+					<ex_tran>qutux qutux ngasal ta lama kbalay blaq na nniqun ru qwaw.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#37251;&#39770;</k> <!-- 醃魚 -->
+			<def>
+				<deftext>tmmyan qulih</deftext>
+				<ex>
+					<ex_orig>比水：瓦旦，我準備好了糯米飯，醃肉、醃魚、地瓜、芋頭、龍葵、刺蔥、山茼萵、山胡椒</ex_orig>
+					<ex_tran>Pisuy: Watan, wayan ku snku sumul, tmmyan qsinuw, tmmyan qulih, sehuy, wasiq, tana, yahuw,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#37325;</k> <!-- 重 -->
+			<def>
+				<deftext>usuw</deftext>
+				<ex>
+					<ex_orig>你爸爸背的籃子很重。</ex_orig>
+					<ex_tran>usuw balay tokan pinnanga yaba su.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#37326;&#20820;</k> <!-- 野兔 -->
+			<def>
+				<deftext>pyongpyong</deftext>
+				<ex>
+					<ex_orig>馬賴：那是松鼠！那是野兔！</ex_orig>
+					<ex_tran>Maray: qasa ga bhut! qasa ga pyongpyong!</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#37326;&#29560;</k> <!-- 野獸 -->
+			<def>
+				<deftext>qsinuw</deftext>
+				<ex>
+					<ex_orig>可愛的動物</ex_orig>
+					<ex_tran>blaq ktan qu qsinuw</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>馬賴：瓦旦，聽說你家有許多動物，</ex_orig>
+					<ex_tran>Maray: Watan, pongan ga piyux balay qsinuw ngasal su?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#37326;&#29983;&#21205;&#29289;</k> <!-- 野生動物 -->
+			<def>
+				<deftext>qqsinuw</deftext>
+				<ex>
+					<ex_orig>山林有很多種的野生動物</ex_orig>
+					<ex_tran>hlahuy ga maki mllamu na qqsinuw,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>如此方能受祖靈地庇佑，並賞賜我們獵物。</ex_orig>
+					<ex_tran>nanu yasa musa ta nya glwanan lqotas ta, biqan ta nya qqsinuw.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>八、不可獵殺懷孕或幼小的動物。</ex_orig>
+					<ex_tran>8.mkiʼan ru mbhku qu qqsinuw ga ini qlupiy.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#37666;</k> <!-- 錢 -->
+			<def>
+							<def>
+				<deftext>pila</deftext>
+				<ex>
+					<ex_orig>你有多少錢？</ex_orig>
+					<ex_tran>pira pila su?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你的錢好多。</ex_orig>
+					<ex_tran>piyux balay pila su.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>pila</deftext>
+				<ex>
+					<ex_orig>你有多少錢？</ex_orig>
+					<ex_tran>pira pila su?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你的錢好多。</ex_orig>
+					<ex_tran>piyux balay pila su.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#37941;&#22846;</k> <!-- 鐵夾 -->
+			<def>
+				<deftext>tʼtu</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#37941;&#24149;</k> <!-- 鐵幕 -->
+			<def>
+				<deftext>temu</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#38283;&#22718;</k> <!-- 開墾 -->
+			<def>
+				<deftext>mnayang</deftext>
+				<ex>
+					<ex_orig>我們的長輩非常努力開墾、耕作、播種和收割，</ex_orig>
+					<ex_tran>bnkis ta ga lokah balay mnayang, mqumah, tmubux ru kmloh.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#38283;&#29609;&#31505;</k> <!-- 開玩笑 -->
+			<def>
+							<def>
+				<deftext>mgnaw</deftext>
+				<ex>
+					<ex_orig>巴桑喜歡開玩笑，</ex_orig>
+					<ex_tran>Pasang ga smoya balay mgnaw,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>hyapas</deftext>
+				<ex>
+					<ex_orig>七、在狩獵時不可口出誑言及嬉鬧。</ex_orig>
+					<ex_tran>7. qmalup ga,ini tksyaw kmal ru hyapas.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#38283;&#36554;</k> <!-- 開車 -->
+			<def>
+				<deftext>miray</deftext>
+				<ex>
+					<ex_orig>雅外：我爸爸是開大卡車的。</ex_orig>
+					<ex_tran>Yaway: cyux miray hopa torak yaba mu.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#38321;&#35712;</k> <!-- 閱讀 -->
+			<def>
+							<def>
+				<deftext>lpgaw</deftext>
+				<ex>
+					<ex_orig>我們要不斷反覆聽說讀寫，我們來聽一段歌，好嗎？</ex_orig>
+					<ex_tran>lpgaw ta krryax ki pongay ta cikay qwas ki?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mpuw</deftext>
+				<ex>
+					<ex_orig>第十課</ex_orig>
+					<ex_tran>te mpuw lpgan</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>第十一課</ex_orig>
+					<ex_tran>te mpuw qutux lpgan</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#38500;&#33609;</k> <!-- 除草 -->
+			<def>
+				<deftext>mqumah</deftext>
+				<ex>
+					<ex_orig>我們的長輩非常努力開墾、耕作、播種和收割，</ex_orig>
+					<ex_tran>bnkis ta ga lokah balay mnayang, mqumah, tmubux ru kmloh.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#38519;&#38449;</k> <!-- 陷阱 -->
+			<def>
+				<deftext>rusa</deftext>
+				<ex>
+					<ex_orig>找到路徑之後再放適合的陷阱</ex_orig>
+					<ex_tran>lwan ta cinrapal nya laga ssi rusa loziy ,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>如吊脖子陷阱、石板陷阱、吊腳陷阱等，</ex_orig>
+					<ex_tran>syan ta rusa, rangay, kakay lga,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>他教我設陷阱和放鐵夾的方法，</ex_orig>
+					<ex_tran>cbaqan saku nya smi rusa ru mbhul ttuʼ,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#38568;&#20415;</k> <!-- 隨便 -->
+			<def>
+							<def>
+				<deftext>mhmut</deftext>
+				<ex>
+					<ex_orig>哥哥：不能任意以隨便的木頭，</ex_orig>
+					<ex_tran>qsuyanl: ini hmci magal mhmut na qhoniq,</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>hmci</deftext>
+				<ex>
+					<ex_orig>絕不肆意濫殺動物值得我們學習。</ex_orig>
+					<ex_tran>ini naha hmciy skut qqsinux, baqun ta pslungan.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>hmut</deftext>
+				<ex>
+					<ex_orig>隨便一片樹葉</ex_orig>
+					<ex_tran>ana mhmut qu qutux abaw qhuniq ga,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>可是也不能隨便亂來，</ex_orig>
+					<ex_tran>ana ga,ini hmci mhmut uzi.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>不說謊、</ex_orig>
+					<ex_tran>ini ta hmut mbrus,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>一、男人不碰女人。</ex_orig>
+					<ex_tran>1. mlikuy ga ini hmut tmring kneril.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>六、不隨便侵占別人的土地。</ex_orig>
+					<ex_tran>6. ini hmut qmul hiyal squliq.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>hmut</deftext>
+				<ex>
+					<ex_orig>隨便一片樹葉</ex_orig>
+					<ex_tran>ana mhmut qu qutux abaw qhuniq ga,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>可是也不能隨便亂來，</ex_orig>
+					<ex_tran>ana ga,ini hmci mhmut uzi.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>不說謊、</ex_orig>
+					<ex_tran>ini ta hmut mbrus,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>一、男人不碰女人。</ex_orig>
+					<ex_tran>1. mlikuy ga ini hmut tmring kneril.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>六、不隨便侵占別人的土地。</ex_orig>
+					<ex_tran>6. ini hmut qmul hiyal squliq.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#38752;&#36817;&#30340;</k> <!-- 靠近的 -->
+			<def>
+				<deftext>sobeh</deftext>
+				<ex>
+					<ex_orig>尤尚：那裏靠近斷崖，不要去那邊，我們會摔下去囉！</ex_orig>
+					<ex_tran>yusan: sobeh sqoya hasa, laxiy usa kya, musa ta mturuy kya la.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#38911;&#20142;</k> <!-- 響亮 -->
+			<def>
+				<deftext>hngyang</deftext>
+				<ex>
+					<ex_orig>就能吹出這麼美妙的泰雅樂聲</ex_orig>
+					<ex_tran>thyayun nya ptulubuw hngyang na qwas Tayal.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#38957;</k> <!-- 頭 -->
+			<def>
+				<deftext>tunux</deftext>
+				<ex>
+					<ex_orig>一個頭</ex_orig>
+					<ex_tran>qutux tunux,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>黑色的頭。</ex_orig>
+					<ex_tran>qalux na tunux.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#38957;&#39662;</k> <!-- 頭髮 -->
+			<def>
+				<deftext>snonux</deftext>
+				<ex>
+					<ex_orig>我的頭髮很濃密</ex_orig>
+					<ex_tran>piyux balay snonux mu,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#38989;&#38957;</k> <!-- 額頭 -->
+			<def>
+				<deftext>lihuy</deftext>
+				<ex>
+					<ex_orig>男人紋在上額頭及下巴，</ex_orig>
+					<ex_tran>mlikuy ga ptasan lihuy ru qabay.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>女人是紋在上額頭及雙頰上。</ex_orig>
+					<ex_tran>kenril ga ptasan lihuy ru rqyas.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#39131;&#40736;</k> <!-- 飛鼠 -->
+			<def>
+							<def>
+				<deftext>yapit</deftext>
+				<ex>
+					<ex_orig>今天的菜是魚、地瓜葉、龍葵湯和飛鼠。</ex_orig>
+					<ex_tran>qulih, ngnhi, ayang, wqsiq ru yapit ramat ta.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>瓦旦：那是飛鼠！</ex_orig>
+					<ex_tran>Watan: qasa ga yapit!</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>yapit</deftext>
+				<ex>
+					<ex_orig>瓦旦：那是飛鼠！</ex_orig>
+					<ex_tran>Watan: qasa ga yapit!</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我們很快樂！</ex_orig>
+					<ex_tran>mqas sami balay.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>媽媽：優幹！關於姊姊生小孩的事</ex_orig>
+					<ex_tran>yaya: Yukan! ywaw nqu pinlqyan qsuyan su qani ga,</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>巴尚：我喜歡山豬、飛鼠、臭鼬、熊、狐狸和山羊</ex_orig>
+					<ex_tran>pasang: siyun maku bzyok, yapit, piku, ngarux, qbux ru mit.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#39135;&#29289;</k> <!-- 食物 -->
+			<def>
+				<deftext>nniqun</deftext>
+				<ex>
+					<ex_orig>每一個家庭準備很多好吃的食物和酒。</ex_orig>
+					<ex_tran>qutux qutux ngasal ta lama kbalay blaq na nniqun ru qwaw.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#39151;</k> <!-- 飯 -->
+			<def>
+							<def>
+				<deftext>mami</deftext>
+				<ex>
+					<ex_orig>到那兒吃飯去。</ex_orig>
+					<ex_tran>musa ku maniq mami kya.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你吃過飯了嗎？</ex_orig>
+					<ex_tran>mnaniq su mami la?</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mami</deftext>
+				<ex>
+					<ex_orig>到那兒吃飯去。</ex_orig>
+					<ex_tran>musa ku maniq mami kya.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你吃過飯了嗎？</ex_orig>
+					<ex_tran>mnaniq su mami la?</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#39166;&#29289;</k> <!-- 飾物 -->
+			<def>
+				<deftext>mayun</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#39178;&#32946;</k> <!-- 養育 -->
+			<def>
+				<deftext>qmayat</deftext>
+				<ex>
+					<ex_orig>才能養育兒女，</ex_orig>
+					<ex_tran>thuyay su qmayat laqi su,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#39187;</k> <!-- 餓 -->
+			<def>
+				<deftext>muyay</deftext>
+			</def>
+		</ar>
+		<ar>
+			<k>&#39321;&#28779;</k> <!-- 香火 -->
+			<def>
+				<deftext>qbuli</deftext>
+				<ex>
+					<ex_orig>我們家將要接香火，為此事來慶祝。</ex_orig>
+					<ex_tran>pagal qbuli cinngasal ta pqasay ta ya ryax na soni.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>然後以木灰清洗定色。</ex_orig>
+					<ex_tran>babaw nya ga inqwaxan na ha qbuli.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#39321;&#34121;</k> <!-- 香蕉 -->
+			<def>
+				<deftext>buquh</deftext>
+				<ex>
+					<ex_orig>桃子和香蕉。</ex_orig>
+					<ex_tran>bukil ru buquh.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>你在吃香蕉？</ex_orig>
+					<ex_tran>cyux su maniq buquh?</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#39640;&#33288;</k> <!-- 高興 -->
+			<def>
+							<def>
+				<deftext>mqas</deftext>
+				<ex>
+					<ex_orig>我們很快樂！</ex_orig>
+					<ex_tran>mqas sami balay.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我很高興。</ex_orig>
+					<ex_tran>mqas saku balay.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>mqas</deftext>
+				<ex>
+					<ex_orig>我們很快樂！</ex_orig>
+					<ex_tran>mqas sami balay.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我很高興。</ex_orig>
+					<ex_tran>mqas saku balay.</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#39640;&#39640;&#30340;</k> <!-- 高高的 -->
+			<def>
+				<deftext>wagiq</deftext>
+				<ex>
+					<ex_orig>我的鼻子高挺，</ex_orig>
+					<ex_tran>wagiq ku nguhuw mu,</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#40657;</k> <!-- 黑 -->
+			<def>
+				<deftext>qalux</deftext>
+				<ex>
+					<ex_orig>是白的還是黑的？</ex_orig>
+					<ex_tran>plquy ini ga qalux huzil su?</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>是黑的，小小的</ex_orig>
+					<ex_tran>qalux huzil mu, cipoq balay.</ex_tran>
+				</ex>
+			</def>
+		</ar>
+		<ar>
+			<k>&#40763;&#23376;</k> <!-- 鼻子 -->
+			<def>
+							<def>
+				<deftext>nguhuw</deftext>
+				<ex>
+					<ex_orig>一個鼻子，一個(我的)嘴巴</ex_orig>
+					<ex_tran>qutux nguhuw, qutux nqwaq mu.</ex_tran>
+				</ex>
+				<ex>
+					<ex_orig>我的鼻子痛。</ex_orig>
+					<ex_tran>mxal nguhuw mu.</ex_tran>
+				</ex>
+			</def>			<def>
+				<deftext>nguhuw</deftext>
+				<ex>
+					<ex_orig>我的鼻子高挺，</ex_orig>
+					<ex_tran>wagiq ku nguhuw mu,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+		<ar>
+			<k>&#40845;&#33909;</k> <!-- 龍葵 -->
+			<def>
+							<def>
+				<deftext>wasiq</deftext>
+			</def>			<def>
+				<deftext>wasiq</deftext>
+				<ex>
+					<ex_orig>比水：瓦旦，我準備好了糯米飯，醃肉、醃魚、地瓜、芋頭、龍葵、刺蔥、山茼萵、山胡椒</ex_orig>
+					<ex_tran>Pisuy: Watan, wayan ku snku sumul, tmmyan qsinuw, tmmyan qulih, sehuy, wasiq, tana, yahuw,</ex_tran>
+				</ex>
+			</def>			</def>
+		</ar>
+
+    </lexicon>
+</xdxf>
+
